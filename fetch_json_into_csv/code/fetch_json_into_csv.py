@@ -43,7 +43,7 @@ def main():
         df['gameweek_' + str(i) + '_assists'] = assists_list
         df['gameweek_' + str(i) + '_points'] = points_list
 
-    df.to_csv("../csv_files/player_points.csv")
+    df.to_csv("../../resources/player_points.csv")
     print("Done")
 
 if __name__=="__main__":
