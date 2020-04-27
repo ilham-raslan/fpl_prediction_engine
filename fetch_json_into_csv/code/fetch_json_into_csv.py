@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 def main():
-    current_gameweek = 32
+    current_gameweek = 30
 
     URL = "https://fantasy.premierleague.com/api/bootstrap-static/"
     player_data = requests.get(URL).json()['elements']

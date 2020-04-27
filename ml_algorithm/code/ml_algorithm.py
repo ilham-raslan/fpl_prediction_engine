@@ -65,11 +65,23 @@ def main():
     print("Accuracy of NB_res: " + str(accuracy_score(y_res_test, pred_nb_res)))
     print("Accuracy of LR_res: " + str(accuracy_score(y_res_test, pred_lr_res)))
 
-    #
-    # results = pd.DataFrame()
-    # results['Random Forest']=pred_rf
-    # results['Naive Bayes']=pred_nb
-    # results['True Results']=y_test.values
+    current_gameweek=30
+
+    for i in range(6, current_gameweek+1):
+        df_gameweek = pd.read_csv("../../resources/prediction_data/gameweek_" + str(i) + "_prediction_data.csv")
+
+        df_name = df_gameweek.iloc[:,0:3]
+        df_x_prediction = df_gameweek.iloc[:,3:]
+
+        y_prediction = rf_res.predict(df_x_prediction)
+
+        df_y_prediction = pd.DataFrame(y_prediction,columns=["prediction"])
+
+        df_name_and_prediction = pd.concat([df_name,df_y_prediction],axis=1)
+
+        df_name_and_prediction.to_csv("../../resources/prediction_data_results/gameweek_" + str(i) + "_prediction_data_results.csv")
+
+    print("Done")
 
 if __name__=="__main__":
     main()
