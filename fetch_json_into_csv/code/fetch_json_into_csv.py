@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 def main():
-    current_gameweek = 32
+    current_gameweek = 30
 
     URL = "https://fantasy.premierleague.com/api/bootstrap-static/"
     player_data = requests.get(URL).json()['elements']
@@ -14,8 +14,12 @@ def main():
     df['id'] = df['id'].astype(int)
 
     for i in range(len(player_data)):
-        df['first_name'].iloc[i] = player_data[i]['first_name']
-        df['last_name'].iloc[i] = player_data[i]['second_name']
+        try:
+            id = player_data[i]['id']
+            df['first_name'].iloc[id-1] = player_data[i]['first_name']
+            df['last_name'].iloc[id-1] = player_data[i]['second_name']
+        except:
+            print("Error occured with Id " + str(id))
 
 # -----------------------------------DOESNT WORK FOR GAMEWEEK 26 AND ABOVE, GIVES INDEX OUT OF BOUNDS EXCEPTION ------------------
     for i in range(1,current_gameweek):
