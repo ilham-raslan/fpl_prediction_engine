@@ -88,7 +88,7 @@
 86,87,Charlie,Taylor,0.0
 87,88,Kevin,Long,0.0
 88,89,Ben,Gibson,0.0
-89,90,Ashley,Barnes,2.0
+89,90,Ashley,Barnes,0.0
 90,91,Chris,Wood,1.0
 91,92,Matej,Vydra,0.0
 92,93,Nick,Pope,0.0
@@ -99,7 +99,7 @@
 97,98,Robbie,Brady,0.0
 98,99,Steven,Defour,0.0
 99,100,Jeff,Hendrick,0.0
-100,101,Ashley,Westwood,1.0
+100,101,Ashley,Westwood,0.0
 101,102,Jack,Cork,0.0
 102,103,Marcos,Alonso,0.0
 103,104,Antonio,Rüdiger,0.0
@@ -146,7 +146,7 @@
 144,145,Leighton,Baines,0.0
 145,146,Cenk,Tosun,0.0
 146,147,Dominic,Calvert-Lewin,0.0
-147,148,Jordan,Pickford,0.0
+147,148,Jordan,Pickford,1.0
 148,149,Maarten,Stekelenburg,0.0
 149,150,Richarlison,de Andrade,1.0
 150,151,Gylfi,Sigurdsson,0.0
@@ -190,7 +190,7 @@
 188,189,Alisson,Ramses Becker,1.0
 189,190,Simon,Mignolet,0.0
 190,191,Mohamed,Salah,2.0
-191,192,Sadio,Mané,0.0
+191,192,Sadio,Mané,2.0
 192,193,Alex,Oxlade-Chamberlain,0.0
 193,194,Xherdan,Shaqiri,0.0
 194,195,Adam,Lallana,0.0
@@ -336,7 +336,7 @@
 334,335,Juan,Foyth,0.0
 335,336,Serge,Aurier,0.0
 336,337,Kyle,Walker-Peters,0.0
-337,338,Harry,Kane,0.0
+337,338,Harry,Kane,1.0
 338,339,Vincent,Janssen,0.0
 339,340,Hugo,Lloris,0.0
 340,341,Paulo,Gazzaniga,0.0

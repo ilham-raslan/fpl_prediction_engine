@@ -3,7 +3,7 @@
 1,2,Héctor,Bellerín,0.0
 2,3,Sead,Kolasinac,0.0
 3,4,Ainsley,Maitland-Niles,0.0
-4,5,Sokratis,Papastathopoulos,2.0
+4,5,Sokratis,Papastathopoulos,0.0
 5,6,Nacho,Monreal,0.0
 6,7,Laurent,Koscielny,0.0
 7,8,Konstantinos,Mavropanos,0.0
@@ -47,7 +47,7 @@
 45,46,Florin,Andone,0.0
 46,47,Mathew,Ryan,0.0
 47,48,David,Button,0.0
-48,49,Pascal,Groß,1.0
+48,49,Pascal,Groß,0.0
 49,50,Alireza,Jahanbakhsh,0.0
 50,51,José Heriberto,Izquierdo Mena,0.0
 51,52,Anthony,Knockaert,0.0
@@ -164,13 +164,13 @@
 162,163,Christian,Fuchs,0.0
 163,164,Çaglar,Söyüncü,2.0
 164,165,Wes,Morgan,0.0
-165,166,Jamie,Vardy,1.0
+165,166,Jamie,Vardy,2.0
 166,167,Kelechi,Iheanacho,0.0
 167,168,Kasper,Schmeichel,1.0
 168,169,Eldin,Jakupovic,0.0
 169,170,Danny,Ward,0.0
 170,171,James,Maddison,2.0
-171,172,Harvey,Barnes,0.0
+171,172,Harvey,Barnes,1.0
 172,173,Rachid,Ghezzal,0.0
 173,174,Marc,Albrighton,0.0
 174,175,Demarai,Gray,0.0
@@ -216,7 +216,7 @@
 214,215,Kevin,De Bruyne,0.0
 215,216,Leroy,Sané,0.0
 216,217,Riyad,Mahrez,0.0
-217,218,Bernardo Mota,Veiga de Carvalho e Silva,2.0
+217,218,Bernardo Mota,Veiga de Carvalho e Silva,0.0
 218,219,David,Silva,0.0
 219,220,Phil,Foden,0.0
 220,221,Fernando,Luiz Rosa,0.0

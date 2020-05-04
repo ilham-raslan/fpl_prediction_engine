@@ -28,7 +28,7 @@
 26,27,Ørjan,Nyland,0.0
 27,28,Conor,Hourihane,0.0
 28,29,Jack,Grealish,1.0
-29,30,Anwar,El Ghazi,0.0
+29,30,Anwar,El Ghazi,1.0
 30,31,John,McGinn,0.0
 31,32,Andre,Green,0.0
 32,33,Birkir,Bjarnason,0.0
@@ -206,7 +206,7 @@
 204,205,Fabian,Delph,0.0
 205,206,Oleksandr,Zinchenko,1.0
 206,207,John,Stones,1.0
-207,208,Nicolás,Otamendi,1.0
+207,208,Nicolás,Otamendi,0.0
 208,209,Danilo Luiz,da Silva,0.0
 209,210,Sergio,Agüero,0.0
 210,211,Gabriel Fernando,de Jesus,0.0
@@ -224,7 +224,7 @@
 222,223,Chris,Smalling,0.0
 223,224,Ashley,Young,0.0
 224,225,Victor,Lindelöf,0.0
-225,226,Luke,Shaw,1.0
+225,226,Luke,Shaw,0.0
 226,227,Marcos,Rojo,0.0
 227,228,Eric,Bailly,0.0
 228,229,José Diogo,Dalot Teixeira,0.0
@@ -289,14 +289,14 @@
 287,288,Moritz,Leitner,0.0
 288,289,Alexander,Tettey,0.0
 289,290,Tom,Trybull,0.0
-290,291,Enda,Stevens,0.0
+290,291,Enda,Stevens,1.0
 291,292,Kieron,Freeman,0.0
 292,293,Jack,O'Connell,0.0
 293,294,George,Baldock,0.0
 294,295,John,Egan,0.0
 295,296,Richard,Stearman,0.0
 296,297,John,Lundstram,1.0
-297,298,Billy,Sharp,0.0
+297,298,Billy,Sharp,2.0
 298,299,Jake,Eastwood,0.0
 299,300,Mark,Duffy,0.0
 300,301,John,Fleck,0.0

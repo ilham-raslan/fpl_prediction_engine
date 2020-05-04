@@ -16,7 +16,7 @@
 14,15,Mesut,Özil,0.0
 15,16,Henrikh,Mkhitaryan,0.0
 16,17,Alex,Iwobi,0.0
-17,18,Granit,Xhaka,0.0
+17,18,Granit,Xhaka,1.0
 18,19,Lucas,Torreira,0.0
 19,20,Mohamed,Elneny,0.0
 20,21,Matteo,Guendouzi,0.0
@@ -27,7 +27,7 @@
 25,26,Jonathan,Kodjia,0.0
 26,27,Ørjan,Nyland,0.0
 27,28,Conor,Hourihane,0.0
-28,29,Jack,Grealish,0.0
+28,29,Jack,Grealish,2.0
 29,30,Anwar,El Ghazi,0.0
 30,31,John,McGinn,0.0
 31,32,Andre,Green,0.0
@@ -57,7 +57,7 @@
 55,56,Beram,Kayal,0.0
 56,57,Dale,Stephens,0.0
 57,58,Steve,Cook,1.0
-58,59,Nathan,Aké,0.0
+58,59,Nathan,Aké,2.0
 59,60,Charlie,Daniels,0.0
 60,61,Chris,Mepham,0.0
 61,62,Simon,Francis,0.0
@@ -99,7 +99,7 @@
 97,98,Robbie,Brady,1.0
 98,99,Steven,Defour,0.0
 99,100,Jeff,Hendrick,0.0
-100,101,Ashley,Westwood,0.0
+100,101,Ashley,Westwood,2.0
 101,102,Jack,Cork,0.0
 102,103,Marcos,Alonso,1.0
 103,104,Antonio,Rüdiger,0.0
@@ -157,7 +157,7 @@
 155,156,Idrissa,Gueye,0.0
 156,157,James,McCarthy,0.0
 157,158,Morgan,Schneiderlin,0.0
-158,159,Ricardo Domingos,Barbosa Pereira,1.0
+158,159,Ricardo Domingos,Barbosa Pereira,0.0
 159,160,Harry,Maguire,0.0
 160,161,Benjamin,Chilwell,2.0
 161,162,Jonny,Evans,1.0
@@ -179,7 +179,7 @@
 177,178,Daniel,Amartey,0.0
 178,179,Nampalys,Mendy,0.0
 179,180,Hamza,Choudhury,0.0
-180,181,Andrew,Robertson,1.0
+180,181,Andrew,Robertson,0.0
 181,182,Trent,Alexander-Arnold,0.0
 182,183,Virgil,van Dijk,0.0
 183,184,Joseph,Gomez,0.0
@@ -197,7 +197,7 @@
 195,196,Naby,Keita,0.0
 196,197,Fabio Henrique,Tavares,0.0
 197,198,Jordan,Henderson,2.0
-198,199,Georginio,Wijnaldum,2.0
+198,199,Georginio,Wijnaldum,0.0
 199,200,James,Milner,0.0
 200,201,Rafael,Camacho,0.0
 201,202,Aymeric,Laporte,0.0
@@ -205,14 +205,14 @@
 203,204,Benjamin,Mendy,0.0
 204,205,Fabian,Delph,0.0
 205,206,Oleksandr,Zinchenko,0.0
-206,207,John,Stones,0.0
+206,207,John,Stones,1.0
 207,208,Nicolás,Otamendi,0.0
 208,209,Danilo Luiz,da Silva,0.0
 209,210,Sergio,Agüero,0.0
 210,211,Gabriel Fernando,de Jesus,1.0
 211,212,Ederson,Santana de Moraes,2.0
 212,213,Claudio,Bravo,0.0
-213,214,Raheem,Sterling,0.0
+213,214,Raheem,Sterling,2.0
 214,215,Kevin,De Bruyne,1.0
 215,216,Leroy,Sané,0.0
 216,217,Riyad,Mahrez,0.0
@@ -233,7 +233,7 @@
 231,232,Romelu,Lukaku,0.0
 232,233,Marcus,Rashford,2.0
 233,234,Mason,Greenwood,0.0
-234,235,David,de Gea,0.0
+234,235,David,de Gea,1.0
 235,236,Sergio,Romero,0.0
 236,237,Lee,Grant,0.0
 237,238,Paul,Pogba,0.0
@@ -305,7 +305,7 @@
 303,304,Jannik,Vestergaard,0.0
 304,305,Ryan,Bertrand,0.0
 305,306,Yan,Valery,0.0
-306,307,Jan,Bednarek,0.0
+306,307,Jan,Bednarek,1.0
 307,308,Jack,Stephens,0.0
 308,309,Matt,Targett,0.0
 309,310,Maya,Yoshida,0.0
@@ -461,7 +461,7 @@
 459,460,Tammy,Abraham,1.0
 460,461,Michy,Batshuayi,0.0
 461,462,Robert Kenedy,Nunes do Nascimento,0.0
-462,463,Mason,Mount,2.0
+462,463,Mason,Mount,0.0
 463,464,Rhian,Brewster,0.0
 464,465,Mahmoud Ahmed,Ibrahim Hassan,0.0
 465,466,Joelinton Cássio,Apolinário de Lira,0.0

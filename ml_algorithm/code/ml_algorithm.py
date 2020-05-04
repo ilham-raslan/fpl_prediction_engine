@@ -81,6 +81,10 @@ def main():
 
         df_name_and_prediction.to_csv("../../resources/prediction_data_results/gameweek_" + str(i) + "_prediction_data_results.csv")
 
+        if i==current_gameweek:
+            sorted_df = df_name_and_prediction.sort_values(["prediction","first_name","last_name"], ascending = [False,True,True])
+            sorted_df.to_csv("../../resources/current_week_prediction/sorted_current_week_predictions.csv",index=False)
+
     print("Done")
 
 if __name__=="__main__":

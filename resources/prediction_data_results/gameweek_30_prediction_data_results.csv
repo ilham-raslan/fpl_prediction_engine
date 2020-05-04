@@ -55,7 +55,7 @@
 53,54,Davy,Pröpper,1.0
 54,55,Solomon,March,0.0
 55,56,Beram,Kayal,0.0
-56,57,Dale,Stephens,0.0
+56,57,Dale,Stephens,1.0
 57,58,Steve,Cook,0.0
 58,59,Nathan,Aké,0.0
 59,60,Charlie,Daniels,0.0
@@ -115,7 +115,7 @@
 113,114,Pedro,Rodríguez Ledesma,0.0
 114,115,Ruben,Loftus-Cheek,0.0
 115,116,Callum,Hudson-Odoi,0.0
-116,117,Ross,Barkley,0.0
+116,117,Ross,Barkley,2.0
 117,118,Jorge Luiz,Frello Filho,0.0
 118,119,N'Golo,Kanté,0.0
 119,120,Daniel,Drinkwater,0.0
@@ -125,7 +125,7 @@
 123,124,James,Tomkins,0.0
 124,125,Mamadou,Sakho,0.0
 125,126,Joel,Ward,0.0
-126,127,Scott,Dann,0.0
+126,127,Scott,Dann,1.0
 127,128,Martin,Kelly,0.0
 128,129,Christian,Benteke,0.0
 129,130,Connor,Wickham,0.0
@@ -189,7 +189,7 @@
 187,188,Divock,Origi,0.0
 188,189,Alisson,Ramses Becker,0.0
 189,190,Simon,Mignolet,0.0
-190,191,Mohamed,Salah,0.0
+190,191,Mohamed,Salah,2.0
 191,192,Sadio,Mané,0.0
 192,193,Alex,Oxlade-Chamberlain,0.0
 193,194,Xherdan,Shaqiri,0.0
@@ -241,7 +241,7 @@
 239,240,Alexis,Sánchez,0.0
 240,241,Jesse,Lingard,0.0
 241,242,Juan,Mata,0.0
-242,243,Daniel,James,1.0
+242,243,Daniel,James,0.0
 243,244,Frederico,Rodrigues de Paula Santos,0.0
 244,245,Angel,Gomes,0.0
 245,246,Andreas,Pereira,0.0
@@ -313,10 +313,10 @@
 311,312,Charlie,Austin,0.0
 312,313,Danny,Ings,0.0
 313,314,Michael,Obafemi,0.0
-314,315,Shane,Long,0.0
+314,315,Shane,Long,1.0
 315,316,Sam,Gallagher,0.0
 316,317,Fraser,Forster,0.0
-317,318,Alex,McCarthy,2.0
+317,318,Alex,McCarthy,0.0
 318,319,Angus,Gunn,0.0
 319,320,Nathan,Redmond,0.0
 320,321,James,Ward-Prowse,0.0
@@ -374,12 +374,12 @@
 372,373,Etienne,Capoue,0.0
 373,374,Nathaniel,Chalobah,0.0
 374,375,Domingos,Quina,0.0
-375,376,Aaron,Cresswell,0.0
+375,376,Aaron,Cresswell,1.0
 376,377,Angelo,Ogbonna,0.0
 377,378,Arthur,Masuaku,0.0
 378,379,Pablo,Zabaleta,0.0
 379,380,Ryan,Fredericks,0.0
-380,381,Issa,Diop,0.0
+380,381,Issa,Diop,1.0
 381,382,Fabián,Balbuena,0.0
 382,383,Winston,Reid,0.0
 383,384,Ben,Johnson,0.0
@@ -474,7 +474,7 @@
 472,473,Jesús,Vallejo Lázaro,0.0
 473,474,Lovre,Kalinic,0.0
 474,475,Dan,Burn,0.0
-475,476,Philip,Billing,0.0
+475,476,Philip,Billing,1.0
 476,477,Lewis,Gibson,0.0
 477,478,Mason,Holgate,0.0
 478,479,Jonas,Lössl,0.0
@@ -516,7 +516,7 @@
 514,515,Kieran,Tierney,0.0
 515,516,Aaron,Mooy,0.0
 516,517,Dennis,Praet,0.0
-517,518,João Pedro Cavaco,Cancelo,1.0
+517,518,João Pedro Cavaco,Cancelo,0.0
 518,519,Emil,Krafth,0.0
 519,520,Andy,Carroll,0.0
 520,521,Michael,Verrips,0.0

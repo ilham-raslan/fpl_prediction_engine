@@ -1,7 +1,7 @@
 ,id,first_name,last_name,prediction
 0,1,Shkodran,Mustafi,0.0
 1,2,Héctor,Bellerín,0.0
-2,3,Sead,Kolasinac,0.0
+2,3,Sead,Kolasinac,1.0
 3,4,Ainsley,Maitland-Niles,0.0
 4,5,Sokratis,Papastathopoulos,0.0
 5,6,Nacho,Monreal,0.0
@@ -151,7 +151,7 @@
 149,150,Richarlison,de Andrade,1.0
 150,151,Gylfi,Sigurdsson,1.0
 151,152,Bernard,Anício Caldeira Duarte,0.0
-152,153,Theo,Walcott,0.0
+152,153,Theo,Walcott,1.0
 153,154,Tom,Davies,0.0
 154,155,Ademola,Lookman,0.0
 155,156,Idrissa,Gueye,0.0
@@ -203,12 +203,12 @@
 201,202,Aymeric,Laporte,0.0
 202,203,Kyle,Walker,0.0
 203,204,Benjamin,Mendy,0.0
-204,205,Fabian,Delph,0.0
+204,205,Fabian,Delph,1.0
 205,206,Oleksandr,Zinchenko,0.0
 206,207,John,Stones,0.0
 207,208,Nicolás,Otamendi,1.0
 208,209,Danilo Luiz,da Silva,0.0
-209,210,Sergio,Agüero,0.0
+209,210,Sergio,Agüero,1.0
 210,211,Gabriel Fernando,de Jesus,1.0
 211,212,Ederson,Santana de Moraes,1.0
 212,213,Claudio,Bravo,0.0
@@ -222,7 +222,7 @@
 220,221,Fernando,Luiz Rosa,0.0
 221,222,Ilkay,Gündogan,0.0
 222,223,Chris,Smalling,0.0
-223,224,Ashley,Young,0.0
+223,224,Ashley,Young,1.0
 224,225,Victor,Lindelöf,0.0
 225,226,Luke,Shaw,0.0
 226,227,Marcos,Rojo,0.0
@@ -250,7 +250,7 @@
 248,249,Tahith,Chong,0.0
 249,250,James,Garner,0.0
 250,251,Matt,Ritchie,0.0
-251,252,Fabian,Schär,0.0
+251,252,Fabian,Schär,1.0
 252,253,DeAndre,Yedlin,0.0
 253,254,Federico,Fernández,0.0
 254,255,Paul,Dummett,0.0
@@ -260,7 +260,7 @@
 258,259,Ciaran,Clark,0.0
 259,260,Yoshinori,Muto,0.0
 260,261,Jose Luis,Mato Sanmartín,0.0
-261,262,Martin,Dubravka,1.0
+261,262,Martin,Dubravka,0.0
 262,263,Karl,Darlow,0.0
 263,264,Frederick,Woodman,0.0
 264,265,Ayoze,Pérez,0.0
@@ -300,7 +300,7 @@
 298,299,Jake,Eastwood,0.0
 299,300,Mark,Duffy,0.0
 300,301,John,Fleck,0.0
-301,302,Oliver,Norwood,0.0
+301,302,Oliver,Norwood,1.0
 302,303,David,McGoldrick,0.0
 303,304,Jannik,Vestergaard,0.0
 304,305,Ryan,Bertrand,0.0
@@ -321,7 +321,7 @@
 319,320,Nathan,Redmond,0.0
 320,321,James,Ward-Prowse,0.0
 321,322,Mohamed,Elyounoussi,0.0
-322,323,Stuart,Armstrong,0.0
+322,323,Stuart,Armstrong,1.0
 323,324,Mario,Lemina,0.0
 324,325,Pierre-Emile,Højbjerg,1.0
 325,326,Tyreke,Johnson,0.0
@@ -486,7 +486,7 @@
 484,485,Wesley,Hoedt,0.0
 485,486,Cédric,Soares,0.0
 486,487,Patrick,Cutrone,0.0
-487,488,Nicolas,Pépé,1.0
+487,488,Nicolas,Pépé,0.0
 488,489,Reiss,Nelson,0.0
 489,490,Joseph,Willock,0.0
 490,491,Marvelous,Nakamba,0.0

@@ -126,7 +126,7 @@
 124,125,Mamadou,Sakho,0.0
 125,126,Joel,Ward,0.0
 126,127,Scott,Dann,0.0
-127,128,Martin,Kelly,1.0
+127,128,Martin,Kelly,0.0
 128,129,Christian,Benteke,0.0
 129,130,Connor,Wickham,0.0
 130,131,Vicente,Guaita,2.0
@@ -148,7 +148,7 @@
 146,147,Dominic,Calvert-Lewin,0.0
 147,148,Jordan,Pickford,0.0
 148,149,Maarten,Stekelenburg,0.0
-149,150,Richarlison,de Andrade,0.0
+149,150,Richarlison,de Andrade,1.0
 150,151,Gylfi,Sigurdsson,0.0
 151,152,Bernard,Anício Caldeira Duarte,0.0
 152,153,Theo,Walcott,0.0
@@ -181,7 +181,7 @@
 179,180,Hamza,Choudhury,0.0
 180,181,Andrew,Robertson,0.0
 181,182,Trent,Alexander-Arnold,0.0
-182,183,Virgil,van Dijk,2.0
+182,183,Virgil,van Dijk,0.0
 183,184,Joseph,Gomez,0.0
 184,185,Joel,Matip,0.0
 185,186,Dejan,Lovren,1.0
@@ -223,7 +223,7 @@
 221,222,Ilkay,Gündogan,0.0
 222,223,Chris,Smalling,0.0
 223,224,Ashley,Young,0.0
-224,225,Victor,Lindelöf,0.0
+224,225,Victor,Lindelöf,2.0
 225,226,Luke,Shaw,0.0
 226,227,Marcos,Rojo,0.0
 227,228,Eric,Bailly,0.0
@@ -415,7 +415,7 @@
 413,414,Rúben Diogo,da Silva Neves,0.0
 414,415,João Filipe Iria,Santos Moutinho,2.0
 415,416,Morgan,Gibbs-White,0.0
-416,417,Adama,Traoré,0.0
+416,417,Adama,Traoré,1.0
 417,418,Hélder,Costa,0.0
 418,419,Ivan,Cavaleiro,0.0
 419,420,Leander,Dendoncker,2.0
@@ -441,7 +441,7 @@
 439,440,José Ángel,Esmorís Tasende,0.0
 440,441,Luke,Freeman,0.0
 441,442,Tanguy,Ndombele,0.0
-442,443,Rodrigo,Hernandez,0.0
+442,443,Rodrigo,Hernandez,2.0
 443,444,Phil,Jagielka,1.0
 444,445,Tyrone,Mings,0.0
 445,446,Jack,Stacey,0.0
@@ -473,7 +473,7 @@
 471,472,Ben,Osborn,0.0
 472,473,Jesús,Vallejo Lázaro,0.0
 473,474,Lovre,Kalinic,0.0
-474,475,Dan,Burn,0.0
+474,475,Dan,Burn,1.0
 475,476,Philip,Billing,0.0
 476,477,Lewis,Gibson,0.0
 477,478,Mason,Holgate,0.0

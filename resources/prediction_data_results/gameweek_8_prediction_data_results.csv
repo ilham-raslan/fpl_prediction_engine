@@ -12,7 +12,7 @@
 10,11,Pierre-Emerick,Aubameyang,0.0
 11,12,Alexandre,Lacazette,0.0
 12,13,Edward,Nketiah,0.0
-13,14,Bernd,Leno,1.0
+13,14,Bernd,Leno,0.0
 14,15,Mesut,Özil,0.0
 15,16,Henrikh,Mkhitaryan,0.0
 16,17,Alex,Iwobi,0.0
@@ -81,7 +81,7 @@
 79,80,Andrew,Surman,0.0
 80,81,Dan,Gosling,0.0
 81,82,Jefferson,Lerma,0.0
-82,83,Ben,Mee,0.0
+82,83,Ben,Mee,1.0
 83,84,James,Tarkowski,2.0
 84,85,Matthew,Lowton,0.0
 85,86,Phil,Bardsley,0.0
@@ -174,7 +174,7 @@
 172,173,Rachid,Ghezzal,0.0
 173,174,Marc,Albrighton,0.0
 174,175,Demarai,Gray,0.0
-175,176,Wilfred,Ndidi,0.0
+175,176,Wilfred,Ndidi,2.0
 176,177,Matty,James,0.0
 177,178,Daniel,Amartey,0.0
 178,179,Nampalys,Mendy,0.0
