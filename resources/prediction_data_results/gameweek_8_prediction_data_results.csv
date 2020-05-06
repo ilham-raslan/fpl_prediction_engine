@@ -12,7 +12,7 @@
 10,11,Pierre-Emerick,Aubameyang,0.0
 11,12,Alexandre,Lacazette,0.0
 12,13,Edward,Nketiah,0.0
-13,14,Bernd,Leno,0.0
+13,14,Bernd,Leno,1.0
 14,15,Mesut,Özil,0.0
 15,16,Henrikh,Mkhitaryan,0.0
 16,17,Alex,Iwobi,0.0
@@ -174,7 +174,7 @@
 172,173,Rachid,Ghezzal,0.0
 173,174,Marc,Albrighton,0.0
 174,175,Demarai,Gray,0.0
-175,176,Wilfred,Ndidi,2.0
+175,176,Wilfred,Ndidi,0.0
 176,177,Matty,James,0.0
 177,178,Daniel,Amartey,0.0
 178,179,Nampalys,Mendy,0.0
@@ -198,7 +198,7 @@
 196,197,Fabio Henrique,Tavares,0.0
 197,198,Jordan,Henderson,0.0
 198,199,Georginio,Wijnaldum,0.0
-199,200,James,Milner,2.0
+199,200,James,Milner,0.0
 200,201,Rafael,Camacho,0.0
 201,202,Aymeric,Laporte,0.0
 202,203,Kyle,Walker,0.0
@@ -239,7 +239,7 @@
 237,238,Paul,Pogba,0.0
 238,239,Anthony,Martial,0.0
 239,240,Alexis,Sánchez,0.0
-240,241,Jesse,Lingard,0.0
+240,241,Jesse,Lingard,2.0
 241,242,Juan,Mata,0.0
 242,243,Daniel,James,0.0
 243,244,Frederico,Rodrigues de Paula Santos,0.0
@@ -344,7 +344,7 @@
 342,343,Christian,Eriksen,0.0
 343,344,Bamidele,Alli,0.0
 344,345,Lucas,Rodrigues Moura da Silva,0.0
-345,346,Erik,Lamela,0.0
+345,346,Erik,Lamela,1.0
 346,347,Harry,Winks,0.0
 347,348,Victor,Wanyama,0.0
 348,349,Moussa,Sissoko,0.0

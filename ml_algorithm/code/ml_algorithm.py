@@ -85,6 +85,14 @@ def main():
             sorted_df = df_name_and_prediction.sort_values(["prediction","first_name","last_name"], ascending = [False,True,True])
             sorted_df.to_csv("../../resources/current_week_prediction/sorted_current_week_predictions.csv",index=False)
 
+            sorted_df.drop(sorted_df.loc[sorted_df['prediction'] == 0].index, inplace=True)
+
+            html = sorted_df.to_html(index=False)
+
+            text_file = open("../../resources/current_week_prediction/sorted_current_week_predictions.html","w",encoding='utf8')
+            text_file.write(html)
+            text_file.close()
+
     print("Done")
 
 if __name__=="__main__":

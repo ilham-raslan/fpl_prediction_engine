@@ -2,7 +2,7 @@
 0,1,Shkodran,Mustafi,0.0
 1,2,Héctor,Bellerín,0.0
 2,3,Sead,Kolasinac,0.0
-3,4,Ainsley,Maitland-Niles,0.0
+3,4,Ainsley,Maitland-Niles,1.0
 4,5,Sokratis,Papastathopoulos,0.0
 5,6,Nacho,Monreal,0.0
 6,7,Laurent,Koscielny,0.0
@@ -213,7 +213,7 @@
 211,212,Ederson,Santana de Moraes,0.0
 212,213,Claudio,Bravo,1.0
 213,214,Raheem,Sterling,0.0
-214,215,Kevin,De Bruyne,0.0
+214,215,Kevin,De Bruyne,2.0
 215,216,Leroy,Sané,0.0
 216,217,Riyad,Mahrez,0.0
 217,218,Bernardo Mota,Veiga de Carvalho e Silva,0.0
@@ -295,7 +295,7 @@
 293,294,George,Baldock,0.0
 294,295,John,Egan,0.0
 295,296,Richard,Stearman,0.0
-296,297,John,Lundstram,1.0
+296,297,John,Lundstram,0.0
 297,298,Billy,Sharp,0.0
 298,299,Jake,Eastwood,0.0
 299,300,Mark,Duffy,0.0
@@ -303,7 +303,7 @@
 301,302,Oliver,Norwood,0.0
 302,303,David,McGoldrick,0.0
 303,304,Jannik,Vestergaard,0.0
-304,305,Ryan,Bertrand,0.0
+304,305,Ryan,Bertrand,2.0
 305,306,Yan,Valery,0.0
 306,307,Jan,Bednarek,0.0
 307,308,Jack,Stephens,0.0
@@ -399,7 +399,7 @@
 397,398,Grady,Diangana,0.0
 398,399,Pablo,Fornals,0.0
 399,400,Pedro,Obiang,0.0
-400,401,Matt,Doherty,1.0
+400,401,Matt,Doherty,0.0
 401,402,Jonathan,Castro Otto,0.0
 402,403,Conor,Coady,1.0
 403,404,Ryan,Bennett,0.0
@@ -488,7 +488,7 @@
 486,487,Patrick,Cutrone,0.0
 487,488,Nicolas,Pépé,0.0
 488,489,Reiss,Nelson,0.0
-489,490,Joseph,Willock,2.0
+489,490,Joseph,Willock,0.0
 490,491,Marvelous,Nakamba,0.0
 491,492,Arnaut,Danjuma Groeneveld,0.0
 492,493,Adam,Webster,0.0

@@ -1,7 +1,7 @@
 ,id,first_name,last_name,prediction
 0,1,Shkodran,Mustafi,0.0
 1,2,Héctor,Bellerín,0.0
-2,3,Sead,Kolasinac,1.0
+2,3,Sead,Kolasinac,0.0
 3,4,Ainsley,Maitland-Niles,0.0
 4,5,Sokratis,Papastathopoulos,0.0
 5,6,Nacho,Monreal,0.0
@@ -203,13 +203,13 @@
 201,202,Aymeric,Laporte,0.0
 202,203,Kyle,Walker,0.0
 203,204,Benjamin,Mendy,0.0
-204,205,Fabian,Delph,1.0
+204,205,Fabian,Delph,0.0
 205,206,Oleksandr,Zinchenko,0.0
 206,207,John,Stones,0.0
 207,208,Nicolás,Otamendi,1.0
 208,209,Danilo Luiz,da Silva,0.0
-209,210,Sergio,Agüero,1.0
-210,211,Gabriel Fernando,de Jesus,1.0
+209,210,Sergio,Agüero,0.0
+210,211,Gabriel Fernando,de Jesus,0.0
 211,212,Ederson,Santana de Moraes,1.0
 212,213,Claudio,Bravo,0.0
 213,214,Raheem,Sterling,1.0
@@ -222,7 +222,7 @@
 220,221,Fernando,Luiz Rosa,0.0
 221,222,Ilkay,Gündogan,0.0
 222,223,Chris,Smalling,0.0
-223,224,Ashley,Young,1.0
+223,224,Ashley,Young,0.0
 224,225,Victor,Lindelöf,0.0
 225,226,Luke,Shaw,0.0
 226,227,Marcos,Rojo,0.0
@@ -364,7 +364,7 @@
 362,363,Gerard,Deulofeu,0.0
 363,364,Andre,Gray,0.0
 364,365,Isaac,Success Ajayi,0.0
-365,366,Ben,Foster,0.0
+365,366,Ben,Foster,1.0
 366,367,Pontus,Dahlberg,0.0
 367,368,Abdoulaye,Doucouré,0.0
 368,369,Roberto,Pereyra,0.0
@@ -486,7 +486,7 @@
 484,485,Wesley,Hoedt,0.0
 485,486,Cédric,Soares,0.0
 486,487,Patrick,Cutrone,0.0
-487,488,Nicolas,Pépé,0.0
+487,488,Nicolas,Pépé,1.0
 488,489,Reiss,Nelson,0.0
 489,490,Joseph,Willock,0.0
 490,491,Marvelous,Nakamba,0.0

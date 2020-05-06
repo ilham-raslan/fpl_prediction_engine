@@ -89,7 +89,7 @@
 87,88,Kevin,Long,0.0
 88,89,Ben,Gibson,0.0
 89,90,Ashley,Barnes,0.0
-90,91,Chris,Wood,2.0
+90,91,Chris,Wood,0.0
 91,92,Matej,Vydra,0.0
 92,93,Nick,Pope,1.0
 93,94,Tom,Heaton,0.0
@@ -169,7 +169,7 @@
 167,168,Kasper,Schmeichel,1.0
 168,169,Eldin,Jakupovic,0.0
 169,170,Danny,Ward,0.0
-170,171,James,Maddison,0.0
+170,171,James,Maddison,1.0
 171,172,Harvey,Barnes,1.0
 172,173,Rachid,Ghezzal,0.0
 173,174,Marc,Albrighton,0.0
@@ -250,7 +250,7 @@
 248,249,Tahith,Chong,0.0
 249,250,James,Garner,0.0
 250,251,Matt,Ritchie,0.0
-251,252,Fabian,Schär,1.0
+251,252,Fabian,Schär,0.0
 252,253,DeAndre,Yedlin,0.0
 253,254,Federico,Fernández,1.0
 254,255,Paul,Dummett,1.0
@@ -299,7 +299,7 @@
 297,298,Billy,Sharp,0.0
 298,299,Jake,Eastwood,0.0
 299,300,Mark,Duffy,0.0
-300,301,John,Fleck,0.0
+300,301,John,Fleck,2.0
 301,302,Oliver,Norwood,0.0
 302,303,David,McGoldrick,0.0
 303,304,Jannik,Vestergaard,0.0
@@ -331,7 +331,7 @@
 329,330,Jan,Vertonghen,0.0
 330,331,Toby,Alderweireld,0.0
 331,332,Danny,Rose,0.0
-332,333,Davinson,Sánchez,1.0
+332,333,Davinson,Sánchez,0.0
 333,334,Kieran,Trippier,0.0
 334,335,Juan,Foyth,0.0
 335,336,Serge,Aurier,1.0

@@ -299,10 +299,10 @@
 297,298,Billy,Sharp,0.0
 298,299,Jake,Eastwood,0.0
 299,300,Mark,Duffy,0.0
-300,301,John,Fleck,0.0
+300,301,John,Fleck,1.0
 301,302,Oliver,Norwood,2.0
 302,303,David,McGoldrick,0.0
-303,304,Jannik,Vestergaard,1.0
+303,304,Jannik,Vestergaard,0.0
 304,305,Ryan,Bertrand,0.0
 305,306,Yan,Valery,0.0
 306,307,Jan,Bednarek,0.0
@@ -330,7 +330,7 @@
 328,329,Ben,Davies,0.0
 329,330,Jan,Vertonghen,0.0
 330,331,Toby,Alderweireld,0.0
-331,332,Danny,Rose,0.0
+331,332,Danny,Rose,1.0
 332,333,Davinson,Sánchez,0.0
 333,334,Kieran,Trippier,0.0
 334,335,Juan,Foyth,0.0
@@ -473,7 +473,7 @@
 471,472,Ben,Osborn,0.0
 472,473,Jesús,Vallejo Lázaro,0.0
 473,474,Lovre,Kalinic,0.0
-474,475,Dan,Burn,1.0
+474,475,Dan,Burn,0.0
 475,476,Philip,Billing,0.0
 476,477,Lewis,Gibson,0.0
 477,478,Mason,Holgate,0.0

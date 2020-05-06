@@ -28,7 +28,7 @@
 26,27,Ørjan,Nyland,0.0
 27,28,Conor,Hourihane,0.0
 28,29,Jack,Grealish,1.0
-29,30,Anwar,El Ghazi,2.0
+29,30,Anwar,El Ghazi,0.0
 30,31,John,McGinn,0.0
 31,32,Andre,Green,0.0
 32,33,Birkir,Bjarnason,0.0
@@ -139,7 +139,7 @@
 137,138,James,McArthur,0.0
 138,139,Cheikhou,Kouyaté,0.0
 139,140,Luke,Dreher,0.0
-140,141,Lucas,Digne,2.0
+140,141,Lucas,Digne,0.0
 141,142,Yerry,Mina,0.0
 142,143,Michael,Keane,0.0
 143,144,Seamus,Coleman,0.0
@@ -412,7 +412,7 @@
 410,411,Rui Pedro,dos Santos Patrício,0.0
 411,412,John,Ruddy,0.0
 412,413,Will,Norris,0.0
-413,414,Rúben Diogo,da Silva Neves,1.0
+413,414,Rúben Diogo,da Silva Neves,0.0
 414,415,João Filipe Iria,Santos Moutinho,2.0
 415,416,Morgan,Gibbs-White,0.0
 416,417,Adama,Traoré,0.0
@@ -426,7 +426,7 @@
 424,425,,,0.0
 425,426,,,0.0
 426,427,Emiliano,Martínez,0.0
-427,428,Wesley,Moraes,1.0
+427,428,Wesley,Moraes,2.0
 428,429,Jed,Steer,0.0
 429,430,Aaron,Lennon,0.0
 430,431,Christian,Pulisic,0.0
@@ -456,7 +456,7 @@
 454,455,Bjorn,Engels,0.0
 455,456,Ravel,Morrison,0.0
 456,457,Sébastien,Haller,0.0
-457,458,Frédéric,Guilbert,2.0
+457,458,Frédéric,Guilbert,0.0
 458,459,Kurt,Zouma,0.0
 459,460,Tammy,Abraham,0.0
 460,461,Michy,Batshuayi,0.0
@@ -503,7 +503,7 @@
 501,502,Neal,Maupay,0.0
 502,503,Gary,Cahill,0.0
 503,504,Gabriel Teodoro,Martinelli Silva,1.0
-504,505,Harry,Wilson,0.0
+504,505,Harry,Wilson,2.0
 505,506,Reece,James,0.0
 506,507,Ibrahim,Amadou,0.0
 507,508,Sofiane,Boufal,0.0

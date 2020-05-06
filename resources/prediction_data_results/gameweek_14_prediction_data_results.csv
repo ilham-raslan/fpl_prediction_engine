@@ -84,14 +84,14 @@
 82,83,Ben,Mee,0.0
 83,84,James,Tarkowski,0.0
 84,85,Matthew,Lowton,0.0
-85,86,Phil,Bardsley,2.0
+85,86,Phil,Bardsley,0.0
 86,87,Charlie,Taylor,0.0
 87,88,Kevin,Long,0.0
 88,89,Ben,Gibson,0.0
-89,90,Ashley,Barnes,0.0
+89,90,Ashley,Barnes,1.0
 90,91,Chris,Wood,2.0
 91,92,Matej,Vydra,0.0
-92,93,Nick,Pope,1.0
+92,93,Nick,Pope,0.0
 93,94,Tom,Heaton,0.0
 94,95,Joe,Hart,0.0
 95,96,Johann Berg,Gudmundsson,0.0
@@ -181,7 +181,7 @@
 179,180,Hamza,Choudhury,0.0
 180,181,Andrew,Robertson,0.0
 181,182,Trent,Alexander-Arnold,2.0
-182,183,Virgil,van Dijk,0.0
+182,183,Virgil,van Dijk,2.0
 183,184,Joseph,Gomez,0.0
 184,185,Joel,Matip,0.0
 185,186,Dejan,Lovren,0.0
@@ -371,7 +371,7 @@
 369,370,Will,Hughes,0.0
 370,371,Tom,Cleverley,0.0
 371,372,Ken,Sema,0.0
-372,373,Etienne,Capoue,0.0
+372,373,Etienne,Capoue,1.0
 373,374,Nathaniel,Chalobah,0.0
 374,375,Domingos,Quina,0.0
 375,376,Aaron,Cresswell,2.0
@@ -496,14 +496,14 @@
 494,495,Bailey,Peacock-Farrell,0.0
 495,496,Moise,Kean,0.0
 496,497,Jean-Philippe,Gbamin,0.0
-497,498,Jetro,Willems,1.0
+497,498,Jetro,Willems,0.0
 498,499,Rolando,Aarons,0.0
 499,500,Allan,Saint-Maximin,0.0
 500,501,Oliver,McBurnie,0.0
 501,502,Neal,Maupay,0.0
 502,503,Gary,Cahill,1.0
 503,504,Gabriel Teodoro,Martinelli Silva,0.0
-504,505,Harry,Wilson,2.0
+504,505,Harry,Wilson,0.0
 505,506,Reece,James,0.0
 506,507,Ibrahim,Amadou,0.0
 507,508,Sofiane,Boufal,0.0
@@ -527,7 +527,7 @@
 525,526,Adrián,San Miguel del Castillo,0.0
 526,527,Georges-Kévin,Nkoudou,0.0
 527,528,Pedro,Lomba Neto,0.0
-528,529,Fikayo,Tomori,0.0
+528,529,Fikayo,Tomori,1.0
 529,530,Andy,Lonergan,0.0
 530,531,Caoimhin,Kelleher,0.0
 531,532,Kevin,Danso,0.0
@@ -552,7 +552,7 @@
 550,551,Archie,Mair,0.0
 551,552,Akin,Famewo,0.0
 552,553,David,Martin,0.0
-553,554,Dwight,Gayle,1.0
+553,554,Dwight,Gayle,0.0
 554,555,Michel,Vorm,0.0
 555,556,Stephen,Henderson,0.0
 556,557,Beni,Baningime,0.0

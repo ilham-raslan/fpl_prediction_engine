@@ -91,7 +91,7 @@
 89,90,Ashley,Barnes,0.0
 90,91,Chris,Wood,0.0
 91,92,Matej,Vydra,1.0
-92,93,Nick,Pope,2.0
+92,93,Nick,Pope,1.0
 93,94,Tom,Heaton,0.0
 94,95,Joe,Hart,0.0
 95,96,Johann Berg,Gudmundsson,0.0
@@ -148,7 +148,7 @@
 146,147,Dominic,Calvert-Lewin,1.0
 147,148,Jordan,Pickford,0.0
 148,149,Maarten,Stekelenburg,0.0
-149,150,Richarlison,de Andrade,1.0
+149,150,Richarlison,de Andrade,0.0
 150,151,Gylfi,Sigurdsson,0.0
 151,152,Bernard,Anício Caldeira Duarte,0.0
 152,153,Theo,Walcott,0.0
@@ -180,7 +180,7 @@
 178,179,Nampalys,Mendy,0.0
 179,180,Hamza,Choudhury,0.0
 180,181,Andrew,Robertson,1.0
-181,182,Trent,Alexander-Arnold,0.0
+181,182,Trent,Alexander-Arnold,2.0
 182,183,Virgil,van Dijk,0.0
 183,184,Joseph,Gomez,1.0
 184,185,Joel,Matip,0.0
@@ -379,7 +379,7 @@
 377,378,Arthur,Masuaku,0.0
 378,379,Pablo,Zabaleta,0.0
 379,380,Ryan,Fredericks,0.0
-380,381,Issa,Diop,1.0
+380,381,Issa,Diop,0.0
 381,382,Fabián,Balbuena,0.0
 382,383,Winston,Reid,0.0
 383,384,Ben,Johnson,0.0
@@ -403,7 +403,7 @@
 401,402,Jonathan,Castro Otto,1.0
 402,403,Conor,Coady,1.0
 403,404,Ryan,Bennett,0.0
-404,405,Willy,Boly,2.0
+404,405,Willy,Boly,0.0
 405,406,Rúben Gonçalo,Silva Nascimento Vinagre,0.0
 406,407,Romain,Saïss,2.0
 407,408,Max,Kilman,0.0
@@ -441,7 +441,7 @@
 439,440,José Ángel,Esmorís Tasende,0.0
 440,441,Luke,Freeman,0.0
 441,442,Tanguy,Ndombele,0.0
-442,443,Rodrigo,Hernandez,0.0
+442,443,Rodrigo,Hernandez,2.0
 443,444,Phil,Jagielka,0.0
 444,445,Tyrone,Mings,0.0
 445,446,Jack,Stacey,0.0

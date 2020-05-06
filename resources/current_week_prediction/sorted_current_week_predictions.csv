@@ -6,30 +6,27 @@ id,first_name,last_name,prediction
 256,Javier,Manquillo,2.0
 593,Jeremy,Ngakia,2.0
 269,Jonjo,Shelvey,2.0
-191,Mohamed,Salah,2.0
-117,Ross,Barkley,2.0
 113,Willian,Borges Da Silva,2.0
 376,Aaron,Cresswell,1.0
 526,Adrián,San Miguel del Castillo,1.0
 12,Alexandre,Lacazette,1.0
 618,Bruno Miguel,Borges Fernandes,1.0
 87,Charlie,Taylor,1.0
-57,Dale,Stephens,1.0
 54,Davy,Pröpper,1.0
 511,Djibril,Sidibé,1.0
 254,Federico,Fernández,1.0
-381,Issa,Diop,1.0
 276,Jamal,Lewis,1.0
 84,James,Tarkowski,1.0
+518,João Pedro Cavaco,Cancelo,1.0
 420,Leander,Dendoncker,1.0
 421,Leandro,Trossard,1.0
 42,Lewis,Dunk,1.0
 401,Matt,Doherty,1.0
 93,Nick,Pope,1.0
 352,Oliver,Skipp,1.0
-476,Philip,Billing,1.0
+407,Romain,Saïss,1.0
+117,Ross,Barkley,1.0
 127,Scott,Dann,1.0
-315,Shane,Long,1.0
 5,Sokratis,Papastathopoulos,1.0
 306,Yan,Valery,1.0
 534,Aaron,Connolly,0.0
@@ -158,6 +155,7 @@ id,first_name,last_name,prediction
 569,Curtis,Jones,0.0
 486,Cédric,Soares,0.0
 105,César,Azpilicueta,0.0
+57,Dale,Stephens,0.0
 475,Dan,Burn,0.0
 81,Dan,Gosling,0.0
 178,Daniel,Amartey,0.0
@@ -271,6 +269,7 @@ id,first_name,last_name,prediction
 271,Isaac,Hayden,0.0
 365,Isaac,Success Ajayi,0.0
 525,Ismaïla,Sarr,0.0
+381,Issa,Diop,0.0
 419,Ivan,Cavaleiro,0.0
 482,Jack,Colback,0.0
 102,Jack,Cork,0.0
@@ -347,7 +346,6 @@ id,first_name,last_name,prediction
 440,José Ángel,Esmorís Tasende,0.0
 415,João Filipe Iria,Santos Moutinho,0.0
 592,João Pedro,Junqueira de Jesus,0.0
-518,João Pedro Cavaco,Cancelo,0.0
 335,Juan,Foyth,0.0
 242,Juan,Mata,0.0
 77,Junior,Stanislas,0.0
@@ -448,6 +446,7 @@ id,first_name,last_name,prediction
 574,Mihai-Alexandru,Dobre,0.0
 20,Mohamed,Elneny,0.0
 322,Mohamed,Elyounoussi,0.0
+191,Mohamed,Salah,0.0
 496,Moise,Kean,0.0
 416,Morgan,Gibbs-White,0.0
 158,Morgan,Schneiderlin,0.0
@@ -501,6 +500,7 @@ id,first_name,last_name,prediction
 220,Phil,Foden,0.0
 444,Phil,Jagielka,0.0
 231,Phil,Jones,0.0
+476,Philip,Billing,0.0
 484,Philip,Heise,0.0
 11,Pierre-Emerick,Aubameyang,0.0
 325,Pierre-Emile,Højbjerg,0.0
@@ -530,7 +530,6 @@ id,first_name,last_name,prediction
 369,Roberto,Pereyra,0.0
 443,Rodrigo,Hernandez,0.0
 499,Rolando,Aarons,0.0
-407,Romain,Saïss,0.0
 232,Romelu,Lukaku,0.0
 115,Ruben,Loftus-Cheek,0.0
 411,Rui Pedro,dos Santos Patrício,0.0
@@ -558,6 +557,7 @@ id,first_name,last_name,prediction
 210,Sergio,Agüero,0.0
 236,Sergio,Romero,0.0
 37,Shane,Duffy,0.0
+315,Shane,Long,0.0
 1,Shkodran,Mustafi,0.0
 62,Simon,Francis,0.0
 190,Simon,Mignolet,0.0
