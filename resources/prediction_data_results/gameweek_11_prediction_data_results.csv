@@ -106,7 +106,7 @@
 104,105,César,Azpilicueta,0.0
 105,106,David,Luiz Moreira Marinho,0.0
 106,107,Emerson,Palmieri dos Santos,0.0
-107,108,Andreas,Christensen,1.0
+107,108,Andreas,Christensen,0.0
 108,109,Davide,Zappacosta,0.0
 109,110,Olivier,Giroud,0.0
 110,111,Kepa,Arrizabalaga,0.0
@@ -231,7 +231,7 @@
 229,230,Matteo,Darmian,0.0
 230,231,Phil,Jones,0.0
 231,232,Romelu,Lukaku,0.0
-232,233,Marcus,Rashford,0.0
+232,233,Marcus,Rashford,1.0
 233,234,Mason,Greenwood,0.0
 234,235,David,de Gea,0.0
 235,236,Sergio,Romero,0.0
@@ -485,7 +485,7 @@
 483,484,Philip,Heise,0.0
 484,485,Wesley,Hoedt,0.0
 485,486,Cédric,Soares,0.0
-486,487,Patrick,Cutrone,1.0
+486,487,Patrick,Cutrone,0.0
 487,488,Nicolas,Pépé,0.0
 488,489,Reiss,Nelson,0.0
 489,490,Joseph,Willock,0.0
@@ -496,7 +496,7 @@
 494,495,Bailey,Peacock-Farrell,0.0
 495,496,Moise,Kean,0.0
 496,497,Jean-Philippe,Gbamin,0.0
-497,498,Jetro,Willems,0.0
+497,498,Jetro,Willems,2.0
 498,499,Rolando,Aarons,0.0
 499,500,Allan,Saint-Maximin,0.0
 500,501,Oliver,McBurnie,0.0

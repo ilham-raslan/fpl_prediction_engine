@@ -51,7 +51,7 @@
 49,50,Alireza,Jahanbakhsh,0.0
 50,51,José Heriberto,Izquierdo Mena,0.0
 51,52,Anthony,Knockaert,0.0
-52,53,Yves,Bissouma,0.0
+52,53,Yves,Bissouma,2.0
 53,54,Davy,Pröpper,0.0
 54,55,Solomon,March,0.0
 55,56,Beram,Kayal,0.0
@@ -126,7 +126,7 @@
 124,125,Mamadou,Sakho,0.0
 125,126,Joel,Ward,0.0
 126,127,Scott,Dann,0.0
-127,128,Martin,Kelly,0.0
+127,128,Martin,Kelly,1.0
 128,129,Christian,Benteke,0.0
 129,130,Connor,Wickham,0.0
 130,131,Vicente,Guaita,2.0
@@ -148,7 +148,7 @@
 146,147,Dominic,Calvert-Lewin,0.0
 147,148,Jordan,Pickford,0.0
 148,149,Maarten,Stekelenburg,0.0
-149,150,Richarlison,de Andrade,1.0
+149,150,Richarlison,de Andrade,0.0
 150,151,Gylfi,Sigurdsson,0.0
 151,152,Bernard,Anício Caldeira Duarte,0.0
 152,153,Theo,Walcott,0.0
@@ -181,7 +181,7 @@
 179,180,Hamza,Choudhury,0.0
 180,181,Andrew,Robertson,0.0
 181,182,Trent,Alexander-Arnold,0.0
-182,183,Virgil,van Dijk,0.0
+182,183,Virgil,van Dijk,2.0
 183,184,Joseph,Gomez,0.0
 184,185,Joel,Matip,0.0
 185,186,Dejan,Lovren,1.0
@@ -274,7 +274,7 @@
 272,273,Ben,Godfrey,0.0
 273,274,Maximillian,Aarons,0.0
 274,275,Christoph,Zimmermann,0.0
-275,276,Jamal,Lewis,2.0
+275,276,Jamal,Lewis,0.0
 276,277,Grant,Hanley,0.0
 277,278,Teemu,Pukki,2.0
 278,279,Dennis,Srbeny,0.0
@@ -301,7 +301,7 @@
 299,300,Mark,Duffy,0.0
 300,301,John,Fleck,0.0
 301,302,Oliver,Norwood,0.0
-302,303,David,McGoldrick,1.0
+302,303,David,McGoldrick,0.0
 303,304,Jannik,Vestergaard,0.0
 304,305,Ryan,Bertrand,2.0
 305,306,Yan,Valery,0.0
@@ -345,7 +345,7 @@
 343,344,Bamidele,Alli,2.0
 344,345,Lucas,Rodrigues Moura da Silva,0.0
 345,346,Erik,Lamela,0.0
-346,347,Harry,Winks,1.0
+346,347,Harry,Winks,0.0
 347,348,Victor,Wanyama,0.0
 348,349,Moussa,Sissoko,0.0
 349,350,Eric,Dier,0.0
@@ -421,7 +421,7 @@
 419,420,Leander,Dendoncker,2.0
 420,421,Leandro,Trossard,0.0
 421,422,André Filipe,Tavares Gomes,0.0
-422,423,Chris,Basham,0.0
+422,423,Chris,Basham,1.0
 423,424,,,0.0
 424,425,,,0.0
 425,426,,,0.0
@@ -441,7 +441,7 @@
 439,440,José Ángel,Esmorís Tasende,0.0
 440,441,Luke,Freeman,0.0
 441,442,Tanguy,Ndombele,0.0
-442,443,Rodrigo,Hernandez,2.0
+442,443,Rodrigo,Hernandez,0.0
 443,444,Phil,Jagielka,1.0
 444,445,Tyrone,Mings,0.0
 445,446,Jack,Stacey,0.0

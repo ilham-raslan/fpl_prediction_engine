@@ -56,7 +56,7 @@
 54,55,Solomon,March,0.0
 55,56,Beram,Kayal,0.0
 56,57,Dale,Stephens,0.0
-57,58,Steve,Cook,0.0
+57,58,Steve,Cook,2.0
 58,59,Nathan,Aké,0.0
 59,60,Charlie,Daniels,0.0
 60,61,Chris,Mepham,0.0
@@ -121,7 +121,7 @@
 119,120,Daniel,Drinkwater,0.0
 120,121,Ethan,Ampadu,0.0
 121,122,Aaron,Wan-Bissaka,0.0
-122,123,Patrick,van Aanholt,0.0
+122,123,Patrick,van Aanholt,1.0
 123,124,James,Tomkins,0.0
 124,125,Mamadou,Sakho,0.0
 125,126,Joel,Ward,1.0
@@ -195,7 +195,7 @@
 193,194,Xherdan,Shaqiri,0.0
 194,195,Adam,Lallana,0.0
 195,196,Naby,Keita,0.0
-196,197,Fabio Henrique,Tavares,0.0
+196,197,Fabio Henrique,Tavares,2.0
 197,198,Jordan,Henderson,0.0
 198,199,Georginio,Wijnaldum,0.0
 199,200,James,Milner,0.0
@@ -319,7 +319,7 @@
 317,318,Alex,McCarthy,0.0
 318,319,Angus,Gunn,0.0
 319,320,Nathan,Redmond,0.0
-320,321,James,Ward-Prowse,2.0
+320,321,James,Ward-Prowse,0.0
 321,322,Mohamed,Elyounoussi,0.0
 322,323,Stuart,Armstrong,0.0
 323,324,Mario,Lemina,0.0
@@ -505,8 +505,8 @@
 503,504,Gabriel Teodoro,Martinelli Silva,0.0
 504,505,Harry,Wilson,1.0
 505,506,Reece,James,0.0
-506,507,Ibrahim,Amadou,0.0
-507,508,Sofiane,Boufal,1.0
+506,507,Ibrahim,Amadou,2.0
+507,508,Sofiane,Boufal,0.0
 508,509,Troy,Parrott,0.0
 509,510,Víctor,Camarasa,0.0
 510,511,Djibril,Sidibé,0.0

@@ -12,7 +12,7 @@
 10,11,Pierre-Emerick,Aubameyang,2.0
 11,12,Alexandre,Lacazette,0.0
 12,13,Edward,Nketiah,0.0
-13,14,Bernd,Leno,2.0
+13,14,Bernd,Leno,0.0
 14,15,Mesut,Özil,1.0
 15,16,Henrikh,Mkhitaryan,0.0
 16,17,Alex,Iwobi,0.0
@@ -20,7 +20,7 @@
 18,19,Lucas,Torreira,0.0
 19,20,Mohamed,Elneny,0.0
 20,21,Matteo,Guendouzi,0.0
-21,22,Ahmed,El Mohamady,2.0
+21,22,Ahmed,El Mohamady,0.0
 22,23,James,Chester,0.0
 23,24,Neil,Taylor,0.0
 24,25,Kortney,Hause,0.0
@@ -61,7 +61,7 @@
 59,60,Charlie,Daniels,0.0
 60,61,Chris,Mepham,0.0
 61,62,Simon,Francis,0.0
-62,63,Adam,Smith,1.0
+62,63,Adam,Smith,0.0
 63,64,Lloyd,Kelly,0.0
 64,65,Diego,Rico,0.0
 65,66,Jack,Simpson,0.0
@@ -84,14 +84,14 @@
 82,83,Ben,Mee,0.0
 83,84,James,Tarkowski,0.0
 84,85,Matthew,Lowton,0.0
-85,86,Phil,Bardsley,0.0
+85,86,Phil,Bardsley,2.0
 86,87,Charlie,Taylor,0.0
 87,88,Kevin,Long,0.0
 88,89,Ben,Gibson,0.0
-89,90,Ashley,Barnes,1.0
+89,90,Ashley,Barnes,0.0
 90,91,Chris,Wood,2.0
 91,92,Matej,Vydra,0.0
-92,93,Nick,Pope,0.0
+92,93,Nick,Pope,1.0
 93,94,Tom,Heaton,0.0
 94,95,Joe,Hart,0.0
 95,96,Johann Berg,Gudmundsson,0.0
@@ -121,7 +121,7 @@
 119,120,Daniel,Drinkwater,0.0
 120,121,Ethan,Ampadu,0.0
 121,122,Aaron,Wan-Bissaka,0.0
-122,123,Patrick,van Aanholt,1.0
+122,123,Patrick,van Aanholt,0.0
 123,124,James,Tomkins,2.0
 124,125,Mamadou,Sakho,0.0
 125,126,Joel,Ward,0.0
@@ -348,7 +348,7 @@
 346,347,Harry,Winks,0.0
 347,348,Victor,Wanyama,0.0
 348,349,Moussa,Sissoko,1.0
-349,350,Eric,Dier,0.0
+349,350,Eric,Dier,2.0
 350,351,Luke,Amos,0.0
 351,352,Oliver,Skipp,0.0
 352,353,José,Holebas,0.0
@@ -371,7 +371,7 @@
 369,370,Will,Hughes,0.0
 370,371,Tom,Cleverley,0.0
 371,372,Ken,Sema,0.0
-372,373,Etienne,Capoue,1.0
+372,373,Etienne,Capoue,0.0
 373,374,Nathaniel,Chalobah,0.0
 374,375,Domingos,Quina,0.0
 375,376,Aaron,Cresswell,2.0
@@ -501,7 +501,7 @@
 499,500,Allan,Saint-Maximin,0.0
 500,501,Oliver,McBurnie,0.0
 501,502,Neal,Maupay,0.0
-502,503,Gary,Cahill,1.0
+502,503,Gary,Cahill,0.0
 503,504,Gabriel Teodoro,Martinelli Silva,0.0
 504,505,Harry,Wilson,0.0
 505,506,Reece,James,0.0
@@ -527,7 +527,7 @@
 525,526,Adrián,San Miguel del Castillo,0.0
 526,527,Georges-Kévin,Nkoudou,0.0
 527,528,Pedro,Lomba Neto,0.0
-528,529,Fikayo,Tomori,1.0
+528,529,Fikayo,Tomori,0.0
 529,530,Andy,Lonergan,0.0
 530,531,Caoimhin,Kelleher,0.0
 531,532,Kevin,Danso,0.0
@@ -552,7 +552,7 @@
 550,551,Archie,Mair,0.0
 551,552,Akin,Famewo,0.0
 552,553,David,Martin,0.0
-553,554,Dwight,Gayle,0.0
+553,554,Dwight,Gayle,1.0
 554,555,Michel,Vorm,0.0
 555,556,Stephen,Henderson,0.0
 556,557,Beni,Baningime,0.0

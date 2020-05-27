@@ -3,7 +3,7 @@
 1,2,Héctor,Bellerín,0.0
 2,3,Sead,Kolasinac,0.0
 3,4,Ainsley,Maitland-Niles,0.0
-4,5,Sokratis,Papastathopoulos,2.0
+4,5,Sokratis,Papastathopoulos,0.0
 5,6,Nacho,Monreal,0.0
 6,7,Laurent,Koscielny,0.0
 7,8,Konstantinos,Mavropanos,0.0
@@ -19,7 +19,7 @@
 17,18,Granit,Xhaka,0.0
 18,19,Lucas,Torreira,0.0
 19,20,Mohamed,Elneny,0.0
-20,21,Matteo,Guendouzi,0.0
+20,21,Matteo,Guendouzi,1.0
 21,22,Ahmed,El Mohamady,0.0
 22,23,James,Chester,0.0
 23,24,Neil,Taylor,0.0
@@ -170,7 +170,7 @@
 168,169,Eldin,Jakupovic,0.0
 169,170,Danny,Ward,0.0
 170,171,James,Maddison,2.0
-171,172,Harvey,Barnes,1.0
+171,172,Harvey,Barnes,0.0
 172,173,Rachid,Ghezzal,0.0
 173,174,Marc,Albrighton,0.0
 174,175,Demarai,Gray,0.0
@@ -237,7 +237,7 @@
 235,236,Sergio,Romero,0.0
 236,237,Lee,Grant,0.0
 237,238,Paul,Pogba,0.0
-238,239,Anthony,Martial,0.0
+238,239,Anthony,Martial,2.0
 239,240,Alexis,Sánchez,0.0
 240,241,Jesse,Lingard,0.0
 241,242,Juan,Mata,0.0
@@ -357,7 +357,7 @@
 355,356,Adrian,Mariappa,1.0
 356,357,Francisco,Femenía Far,0.0
 357,358,Craig,Cathcart,1.0
-358,359,Daryl,Janmaat,0.0
+358,359,Daryl,Janmaat,1.0
 359,360,Marc,Navarro,0.0
 360,361,Sebastian,Prödl,0.0
 361,362,Troy,Deeney,0.0
@@ -375,7 +375,7 @@
 373,374,Nathaniel,Chalobah,0.0
 374,375,Domingos,Quina,0.0
 375,376,Aaron,Cresswell,0.0
-376,377,Angelo,Ogbonna,2.0
+376,377,Angelo,Ogbonna,0.0
 377,378,Arthur,Masuaku,0.0
 378,379,Pablo,Zabaleta,0.0
 379,380,Ryan,Fredericks,0.0
@@ -456,7 +456,7 @@
 454,455,Bjorn,Engels,0.0
 455,456,Ravel,Morrison,0.0
 456,457,Sébastien,Haller,0.0
-457,458,Frédéric,Guilbert,1.0
+457,458,Frédéric,Guilbert,0.0
 458,459,Kurt,Zouma,1.0
 459,460,Tammy,Abraham,2.0
 460,461,Michy,Batshuayi,1.0

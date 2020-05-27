@@ -51,7 +51,7 @@
 49,50,Alireza,Jahanbakhsh,1.0
 50,51,José Heriberto,Izquierdo Mena,0.0
 51,52,Anthony,Knockaert,0.0
-52,53,Yves,Bissouma,0.0
+52,53,Yves,Bissouma,1.0
 53,54,Davy,Pröpper,0.0
 54,55,Solomon,March,0.0
 55,56,Beram,Kayal,0.0
@@ -145,7 +145,7 @@
 143,144,Seamus,Coleman,0.0
 144,145,Leighton,Baines,0.0
 145,146,Cenk,Tosun,0.0
-146,147,Dominic,Calvert-Lewin,2.0
+146,147,Dominic,Calvert-Lewin,0.0
 147,148,Jordan,Pickford,0.0
 148,149,Maarten,Stekelenburg,0.0
 149,150,Richarlison,de Andrade,0.0
@@ -233,7 +233,7 @@
 231,232,Romelu,Lukaku,0.0
 232,233,Marcus,Rashford,0.0
 233,234,Mason,Greenwood,0.0
-234,235,David,de Gea,1.0
+234,235,David,de Gea,2.0
 235,236,Sergio,Romero,0.0
 236,237,Lee,Grant,0.0
 237,238,Paul,Pogba,0.0
@@ -375,7 +375,7 @@
 373,374,Nathaniel,Chalobah,0.0
 374,375,Domingos,Quina,0.0
 375,376,Aaron,Cresswell,1.0
-376,377,Angelo,Ogbonna,0.0
+376,377,Angelo,Ogbonna,1.0
 377,378,Arthur,Masuaku,0.0
 378,379,Pablo,Zabaleta,0.0
 379,380,Ryan,Fredericks,0.0
@@ -387,7 +387,7 @@
 385,386,Javier,Hernández Balcázar,0.0
 386,387,Alexandre Nascimento,Costa Silva,0.0
 387,388,Lukasz,Fabianski,0.0
-388,389,Michail,Antonio,0.0
+388,389,Michail,Antonio,1.0
 389,390,Felipe Anderson,Pereira Gomes,0.0
 390,391,Manuel,Lanzini,0.0
 391,392,Andriy,Yarmolenko,0.0
@@ -399,7 +399,7 @@
 397,398,Grady,Diangana,0.0
 398,399,Pablo,Fornals,0.0
 399,400,Pedro,Obiang,0.0
-400,401,Matt,Doherty,0.0
+400,401,Matt,Doherty,1.0
 401,402,Jonathan,Castro Otto,0.0
 402,403,Conor,Coady,1.0
 403,404,Ryan,Bennett,0.0
@@ -408,7 +408,7 @@
 406,407,Romain,Saïss,2.0
 407,408,Max,Kilman,0.0
 408,409,Raúl,Jiménez,0.0
-409,410,Diogo,Jota,0.0
+409,410,Diogo,Jota,1.0
 410,411,Rui Pedro,dos Santos Patrício,1.0
 411,412,John,Ruddy,0.0
 412,413,Will,Norris,0.0
@@ -582,7 +582,7 @@
 580,581,James,Daly,0.0
 581,582,Joseph,Anang,0.0
 582,583,Japhet,Tanganga,0.0
-583,584,William,Smallbone,1.0
+583,584,William,Smallbone,0.0
 584,585,Tyreece,John-Jules,0.0
 585,586,Tariq,Lamptey,0.0
 586,587,Oskar,Buur,0.0

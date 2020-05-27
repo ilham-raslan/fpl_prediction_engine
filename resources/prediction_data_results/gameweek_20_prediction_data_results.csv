@@ -2,7 +2,7 @@
 0,1,Shkodran,Mustafi,0.0
 1,2,Héctor,Bellerín,0.0
 2,3,Sead,Kolasinac,0.0
-3,4,Ainsley,Maitland-Niles,1.0
+3,4,Ainsley,Maitland-Niles,0.0
 4,5,Sokratis,Papastathopoulos,0.0
 5,6,Nacho,Monreal,0.0
 6,7,Laurent,Koscielny,0.0
@@ -237,7 +237,7 @@
 235,236,Sergio,Romero,0.0
 236,237,Lee,Grant,0.0
 237,238,Paul,Pogba,0.0
-238,239,Anthony,Martial,2.0
+238,239,Anthony,Martial,0.0
 239,240,Alexis,Sánchez,0.0
 240,241,Jesse,Lingard,0.0
 241,242,Juan,Mata,0.0
@@ -276,7 +276,7 @@
 274,275,Christoph,Zimmermann,0.0
 275,276,Jamal,Lewis,0.0
 276,277,Grant,Hanley,0.0
-277,278,Teemu,Pukki,0.0
+277,278,Teemu,Pukki,1.0
 278,279,Dennis,Srbeny,0.0
 279,280,Tim,Krul,0.0
 280,281,Michael,McGovern,0.0
@@ -289,13 +289,13 @@
 287,288,Moritz,Leitner,0.0
 288,289,Alexander,Tettey,0.0
 289,290,Tom,Trybull,0.0
-290,291,Enda,Stevens,0.0
+290,291,Enda,Stevens,1.0
 291,292,Kieron,Freeman,0.0
 292,293,Jack,O'Connell,0.0
 293,294,George,Baldock,0.0
 294,295,John,Egan,0.0
 295,296,Richard,Stearman,0.0
-296,297,John,Lundstram,0.0
+296,297,John,Lundstram,1.0
 297,298,Billy,Sharp,0.0
 298,299,Jake,Eastwood,0.0
 299,300,Mark,Duffy,0.0
@@ -303,7 +303,7 @@
 301,302,Oliver,Norwood,0.0
 302,303,David,McGoldrick,0.0
 303,304,Jannik,Vestergaard,0.0
-304,305,Ryan,Bertrand,2.0
+304,305,Ryan,Bertrand,0.0
 305,306,Yan,Valery,0.0
 306,307,Jan,Bednarek,0.0
 307,308,Jack,Stephens,0.0
@@ -405,9 +405,9 @@
 403,404,Ryan,Bennett,0.0
 404,405,Willy,Boly,0.0
 405,406,Rúben Gonçalo,Silva Nascimento Vinagre,0.0
-406,407,Romain,Saïss,0.0
+406,407,Romain,Saïss,1.0
 407,408,Max,Kilman,0.0
-408,409,Raúl,Jiménez,2.0
+408,409,Raúl,Jiménez,0.0
 409,410,Diogo,Jota,0.0
 410,411,Rui Pedro,dos Santos Patrício,0.0
 411,412,John,Ruddy,0.0
@@ -435,7 +435,7 @@
 433,434,Josip,Drmic,0.0
 434,435,Patrick,Roberts,0.0
 435,436,Simon,Moore,0.0
-436,437,Che,Adams,2.0
+436,437,Che,Adams,0.0
 437,438,Moussa,Djenepo,0.0
 438,439,Craig,Dawson,0.0
 439,440,José Ángel,Esmorís Tasende,0.0
