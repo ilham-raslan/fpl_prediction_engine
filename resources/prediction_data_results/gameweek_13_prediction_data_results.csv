@@ -26,7 +26,7 @@
 24,25,Kortney,Hause,0.0
 25,26,Jonathan,Kodjia,0.0
 26,27,Ørjan,Nyland,0.0
-27,28,Conor,Hourihane,0.0
+27,28,Conor,Hourihane,2.0
 28,29,Jack,Grealish,1.0
 29,30,Anwar,El Ghazi,2.0
 30,31,John,McGinn,0.0
@@ -56,7 +56,7 @@
 54,55,Solomon,March,0.0
 55,56,Beram,Kayal,0.0
 56,57,Dale,Stephens,0.0
-57,58,Steve,Cook,2.0
+57,58,Steve,Cook,0.0
 58,59,Nathan,Aké,0.0
 59,60,Charlie,Daniels,0.0
 60,61,Chris,Mepham,0.0
@@ -73,7 +73,7 @@
 71,72,Asmir,Begovic,0.0
 72,73,Artur,Boruc,0.0
 73,74,Mark,Travers,0.0
-74,75,Ryan,Fraser,0.0
+74,75,Ryan,Fraser,1.0
 75,76,David,Brooks,0.0
 76,77,Junior,Stanislas,0.0
 77,78,Jordon,Ibe,0.0
@@ -81,18 +81,18 @@
 79,80,Andrew,Surman,0.0
 80,81,Dan,Gosling,0.0
 81,82,Jefferson,Lerma,0.0
-82,83,Ben,Mee,1.0
-83,84,James,Tarkowski,2.0
+82,83,Ben,Mee,0.0
+83,84,James,Tarkowski,0.0
 84,85,Matthew,Lowton,0.0
 85,86,Phil,Bardsley,0.0
 86,87,Charlie,Taylor,1.0
 87,88,Kevin,Long,0.0
 88,89,Ben,Gibson,0.0
-89,90,Ashley,Barnes,1.0
+89,90,Ashley,Barnes,0.0
 90,91,Chris,Wood,1.0
 91,92,Matej,Vydra,0.0
-92,93,Nick,Pope,2.0
-93,94,Tom,Heaton,1.0
+92,93,Nick,Pope,0.0
+93,94,Tom,Heaton,0.0
 94,95,Joe,Hart,0.0
 95,96,Johann Berg,Gudmundsson,0.0
 96,97,Dwight,McNeil,0.0
@@ -169,7 +169,7 @@
 167,168,Kasper,Schmeichel,1.0
 168,169,Eldin,Jakupovic,0.0
 169,170,Danny,Ward,0.0
-170,171,James,Maddison,2.0
+170,171,James,Maddison,0.0
 171,172,Harvey,Barnes,0.0
 172,173,Rachid,Ghezzal,0.0
 173,174,Marc,Albrighton,0.0
@@ -246,7 +246,7 @@
 244,245,Angel,Gomes,0.0
 245,246,Andreas,Pereira,0.0
 246,247,Nemanja,Matic,0.0
-247,248,Scott,McTominay,0.0
+247,248,Scott,McTominay,2.0
 248,249,Tahith,Chong,0.0
 249,250,James,Garner,0.0
 250,251,Matt,Ritchie,0.0
@@ -295,7 +295,7 @@
 293,294,George,Baldock,0.0
 294,295,John,Egan,0.0
 295,296,Richard,Stearman,0.0
-296,297,John,Lundstram,0.0
+296,297,John,Lundstram,1.0
 297,298,Billy,Sharp,0.0
 298,299,Jake,Eastwood,0.0
 299,300,Mark,Duffy,0.0
@@ -343,7 +343,7 @@
 341,342,Heung-Min,Son,2.0
 342,343,Christian,Eriksen,0.0
 343,344,Bamidele,Alli,1.0
-344,345,Lucas,Rodrigues Moura da Silva,1.0
+344,345,Lucas,Rodrigues Moura da Silva,0.0
 345,346,Erik,Lamela,0.0
 346,347,Harry,Winks,0.0
 347,348,Victor,Wanyama,0.0
@@ -394,7 +394,7 @@
 392,393,Robert,Snodgrass,1.0
 393,394,Jack,Wilshere,0.0
 394,395,Declan,Rice,0.0
-395,396,Mark,Noble,1.0
+395,396,Mark,Noble,0.0
 396,397,Carlos,Sánchez,0.0
 397,398,Grady,Diangana,0.0
 398,399,Pablo,Fornals,0.0
@@ -408,11 +408,11 @@
 406,407,Romain,Saïss,0.0
 407,408,Max,Kilman,0.0
 408,409,Raúl,Jiménez,1.0
-409,410,Diogo,Jota,0.0
+409,410,Diogo,Jota,1.0
 410,411,Rui Pedro,dos Santos Patrício,0.0
 411,412,John,Ruddy,0.0
 412,413,Will,Norris,0.0
-413,414,Rúben Diogo,da Silva Neves,1.0
+413,414,Rúben Diogo,da Silva Neves,0.0
 414,415,João Filipe Iria,Santos Moutinho,2.0
 415,416,Morgan,Gibbs-White,0.0
 416,417,Adama,Traoré,0.0
@@ -426,17 +426,17 @@
 424,425,,,0.0
 425,426,,,0.0
 426,427,Emiliano,Martínez,0.0
-427,428,Wesley,Moraes,2.0
+427,428,Wesley,Moraes,0.0
 428,429,Jed,Steer,0.0
 429,430,Aaron,Lennon,0.0
 430,431,Christian,Pulisic,0.0
-431,432,Mateo,Kovacic,1.0
+431,432,Mateo,Kovacic,0.0
 432,433,James,Justin,0.0
 433,434,Josip,Drmic,0.0
 434,435,Patrick,Roberts,0.0
 435,436,Simon,Moore,0.0
 436,437,Che,Adams,0.0
-437,438,Moussa,Djenepo,2.0
+437,438,Moussa,Djenepo,0.0
 438,439,Craig,Dawson,0.0
 439,440,José Ángel,Esmorís Tasende,0.0
 440,441,Luke,Freeman,0.0
@@ -446,17 +446,17 @@
 444,445,Tyrone,Mings,1.0
 445,446,Jack,Stacey,0.0
 446,447,Erik,Pieters,0.0
-447,448,Youri,Tielemans,2.0
+447,448,Youri,Tielemans,0.0
 448,449,Ralf,Fahrmann,0.0
 449,450,Roberto,Jimenez Gago,0.0
 450,451,Jay,Rodriguez,0.0
-451,452,Ezri,Konsa Ngoyo,1.0
-452,453,Callum,Robinson,0.0
+451,452,Ezri,Konsa Ngoyo,0.0
+452,453,Callum,Robinson,1.0
 453,454,Sam,Byram,0.0
 454,455,Bjorn,Engels,0.0
 455,456,Ravel,Morrison,0.0
 456,457,Sébastien,Haller,0.0
-457,458,Frédéric,Guilbert,0.0
+457,458,Frédéric,Guilbert,2.0
 458,459,Kurt,Zouma,0.0
 459,460,Tammy,Abraham,0.0
 460,461,Michy,Batshuayi,0.0
@@ -547,7 +547,7 @@
 545,546,Ezequiel,Schelotto,0.0
 546,547,Leon,Clarke,0.0
 547,548,Harry,Lewis,0.0
-548,549,Brandon,Williams,1.0
+548,549,Brandon,Williams,0.0
 549,550,Harvey,Elliott,0.0
 550,551,Archie,Mair,0.0
 551,552,Akin,Famewo,0.0
@@ -627,3 +627,19 @@
 625,626,Jarrod,Bowen,0.0
 626,627,Alexis,Mac Allister,0.0
 627,628,Ki-Jana,Hoever,0.0
+628,629,João Manuel,Neves Virgínia,0.0
+629,630,Faustino,Anjorin,0.0
+630,631,Armando,Broja,0.0
+631,632,Josh,Martin,0.0
+632,633,Nathan,Tella,0.0
+633,634,Harvey,White,0.0
+634,635,Nikola,Tavares,0.0
+635,636,Zech,Medley,0.0
+636,637,Jarrad,Branthwaite,0.0
+637,638,Jimmy,Dunne,0.0
+638,639,Bobby,Thomas,0.0
+639,640,Max,Thompson,0.0
+640,641,Lukas,Jensen,0.0
+641,642,Taylor,Harwood-Bellis,0.0
+642,643,Cole,Palmer,0.0
+643,644,Tommy,Doyle,0.0

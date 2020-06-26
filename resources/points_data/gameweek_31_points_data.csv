@@ -1,4 +1,4 @@
-id,first_name,last_name,gameweek_11_points
+id,first_name,last_name,gameweek_31_points
 1,Shkodran,Mustafi,0.0
 2,Héctor,Bellerín,0.0
 3,Sead,Kolasinac,0.0
@@ -9,10 +9,10 @@ id,first_name,last_name,gameweek_11_points
 8,Konstantinos,Mavropanos,0.0
 9,Carl,Jenkinson,0.0
 10,Rob,Holding,0.0
-11,Pierre-Emerick,Aubameyang,2.0
-12,Alexandre,Lacazette,1.0
+11,Pierre-Emerick,Aubameyang,0.0
+12,Alexandre,Lacazette,0.0
 13,Edward,Nketiah,0.0
-14,Bernd,Leno,1.0
+14,Bernd,Leno,0.0
 15,Mesut,Özil,0.0
 16,Henrikh,Mkhitaryan,0.0
 17,Alex,Iwobi,0.0
@@ -29,23 +29,23 @@ id,first_name,last_name,gameweek_11_points
 28,Conor,Hourihane,0.0
 29,Jack,Grealish,0.0
 30,Anwar,El Ghazi,0.0
-31,John,McGinn,1.0
+31,John,McGinn,0.0
 32,Andre,Green,0.0
 33,Birkir,Bjarnason,0.0
 34,Keinan,Davis,0.0
 35,Henri,Lansbury,0.0
 36,José Ignacio,Peleteiro Romallo,0.0
-37,Shane,Duffy,1.0
-38,Martín,Montoya,2.0
+37,Shane,Duffy,0.0
+38,Martín,Montoya,0.0
 39,Bernardo,Fernandes da Silva Junior,0.0
 40,Leon,Balogun,0.0
 41,Gaëtan,Bong,0.0
-42,Lewis,Dunk,1.0
+42,Lewis,Dunk,0.0
 43,Matthew,Clarke,0.0
 44,Glenn,Murray,0.0
 45,Jürgen,Locadia,0.0
 46,Florin,Andone,0.0
-47,Mathew,Ryan,1.0
+47,Mathew,Ryan,0.0
 48,David,Button,0.0
 49,Pascal,Groß,0.0
 50,Alireza,Jahanbakhsh,0.0
@@ -56,19 +56,19 @@ id,first_name,last_name,gameweek_11_points
 55,Solomon,March,0.0
 56,Beram,Kayal,0.0
 57,Dale,Stephens,0.0
-58,Steve,Cook,1.0
-59,Nathan,Aké,1.0
+58,Steve,Cook,0.0
+59,Nathan,Aké,0.0
 60,Charlie,Daniels,0.0
 61,Chris,Mepham,0.0
 62,Simon,Francis,0.0
-63,Adam,Smith,2.0
+63,Adam,Smith,0.0
 64,Lloyd,Kelly,0.0
-65,Diego,Rico,1.0
+65,Diego,Rico,0.0
 66,Jack,Simpson,0.0
 67,Callum,Wilson,0.0
-68,Joshua,King,1.0
+68,Joshua,King,0.0
 69,Dominic,Solanke,0.0
-70,Lys,Mousset,2.0
+70,Lys,Mousset,0.0
 71,Sam,Surridge,0.0
 72,Asmir,Begovic,0.0
 73,Artur,Boruc,0.0
@@ -116,7 +116,7 @@ id,first_name,last_name,gameweek_11_points
 115,Ruben,Loftus-Cheek,0.0
 116,Callum,Hudson-Odoi,0.0
 117,Ross,Barkley,0.0
-118,Jorge Luiz,Frello Filho,1.0
+118,Jorge Luiz,Frello Filho,0.0
 119,N'Golo,Kanté,0.0
 120,Daniel,Drinkwater,0.0
 121,Ethan,Ampadu,0.0
@@ -139,12 +139,12 @@ id,first_name,last_name,gameweek_11_points
 138,James,McArthur,0.0
 139,Cheikhou,Kouyaté,0.0
 140,Luke,Dreher,0.0
-141,Lucas,Digne,1.0
+141,Lucas,Digne,0.0
 142,Yerry,Mina,0.0
 143,Michael,Keane,0.0
 144,Seamus,Coleman,0.0
 145,Leighton,Baines,0.0
-146,Cenk,Tosun,1.0
+146,Cenk,Tosun,0.0
 147,Dominic,Calvert-Lewin,0.0
 148,Jordan,Pickford,0.0
 149,Maarten,Stekelenburg,0.0
@@ -157,30 +157,30 @@ id,first_name,last_name,gameweek_11_points
 156,Idrissa,Gueye,0.0
 157,James,McCarthy,0.0
 158,Morgan,Schneiderlin,0.0
-159,Ricardo Domingos,Barbosa Pereira,1.0
+159,Ricardo Domingos,Barbosa Pereira,0.0
 160,Harry,Maguire,0.0
-161,Benjamin,Chilwell,1.0
-162,Jonny,Evans,1.0
+161,Benjamin,Chilwell,0.0
+162,Jonny,Evans,0.0
 163,Christian,Fuchs,0.0
-164,Çaglar,Söyüncü,2.0
+164,Çaglar,Söyüncü,0.0
 165,Wes,Morgan,0.0
-166,Jamie,Vardy,1.0
+166,Jamie,Vardy,0.0
 167,Kelechi,Iheanacho,0.0
-168,Kasper,Schmeichel,2.0
+168,Kasper,Schmeichel,0.0
 169,Eldin,Jakupovic,0.0
 170,Danny,Ward,0.0
-171,James,Maddison,2.0
+171,James,Maddison,0.0
 172,Harvey,Barnes,0.0
 173,Rachid,Ghezzal,0.0
 174,Marc,Albrighton,0.0
-175,Demarai,Gray,1.0
+175,Demarai,Gray,0.0
 176,Wilfred,Ndidi,0.0
 177,Matty,James,0.0
 178,Daniel,Amartey,0.0
 179,Nampalys,Mendy,0.0
 180,Hamza,Choudhury,0.0
-181,Andrew,Robertson,2.0
-182,Trent,Alexander-Arnold,1.0
+181,Andrew,Robertson,0.0
+182,Trent,Alexander-Arnold,0.0
 183,Virgil,van Dijk,0.0
 184,Joseph,Gomez,0.0
 185,Joel,Matip,0.0
@@ -190,7 +190,7 @@ id,first_name,last_name,gameweek_11_points
 189,Alisson,Ramses Becker,0.0
 190,Simon,Mignolet,0.0
 191,Mohamed,Salah,0.0
-192,Sadio,Mané,2.0
+192,Sadio,Mané,0.0
 193,Alex,Oxlade-Chamberlain,0.0
 194,Xherdan,Shaqiri,0.0
 195,Adam,Lallana,0.0
@@ -201,14 +201,14 @@ id,first_name,last_name,gameweek_11_points
 200,James,Milner,0.0
 201,Rafael,Camacho,0.0
 202,Aymeric,Laporte,0.0
-203,Kyle,Walker,2.0
+203,Kyle,Walker,0.0
 204,Benjamin,Mendy,0.0
 205,Fabian,Delph,0.0
 206,Oleksandr,Zinchenko,0.0
 207,John,Stones,0.0
 208,Nicolás,Otamendi,0.0
 209,Danilo Luiz,da Silva,0.0
-210,Sergio,Agüero,1.0
+210,Sergio,Agüero,0.0
 211,Gabriel Fernando,de Jesus,0.0
 212,Ederson,Santana de Moraes,0.0
 213,Claudio,Bravo,0.0
@@ -252,12 +252,12 @@ id,first_name,last_name,gameweek_11_points
 251,Matt,Ritchie,0.0
 252,Fabian,Schär,0.0
 253,DeAndre,Yedlin,0.0
-254,Federico,Fernández,1.0
+254,Federico,Fernández,0.0
 255,Paul,Dummett,0.0
 256,Javier,Manquillo,0.0
 257,Florian,Lejeune,0.0
 258,Jamaal,Lascelles,0.0
-259,Ciaran,Clark,1.0
+259,Ciaran,Clark,0.0
 260,Yoshinori,Muto,0.0
 261,Jose Luis,Mato Sanmartín,0.0
 262,Martin,Dubravka,0.0
@@ -267,9 +267,9 @@ id,first_name,last_name,gameweek_11_points
 266,Miguel,Almirón,0.0
 267,Christian,Atsu,0.0
 268,Sung-yueng,Ki,0.0
-269,Jonjo,Shelvey,2.0
+269,Jonjo,Shelvey,0.0
 270,Sean,Longstaff,0.0
-271,Isaac,Hayden,1.0
+271,Isaac,Hayden,0.0
 272,Timm,Klose,0.0
 273,Ben,Godfrey,0.0
 274,Maximillian,Aarons,0.0
@@ -289,17 +289,17 @@ id,first_name,last_name,gameweek_11_points
 288,Moritz,Leitner,0.0
 289,Alexander,Tettey,0.0
 290,Tom,Trybull,0.0
-291,Enda,Stevens,1.0
+291,Enda,Stevens,0.0
 292,Kieron,Freeman,0.0
-293,Jack,O'Connell,1.0
-294,George,Baldock,1.0
-295,John,Egan,1.0
+293,Jack,O'Connell,0.0
+294,George,Baldock,0.0
+295,John,Egan,0.0
 296,Richard,Stearman,0.0
-297,John,Lundstram,2.0
+297,John,Lundstram,0.0
 298,Billy,Sharp,0.0
 299,Jake,Eastwood,0.0
 300,Mark,Duffy,0.0
-301,John,Fleck,2.0
+301,John,Fleck,0.0
 302,Oliver,Norwood,0.0
 303,David,McGoldrick,0.0
 304,Jannik,Vestergaard,0.0
@@ -319,9 +319,9 @@ id,first_name,last_name,gameweek_11_points
 318,Alex,McCarthy,0.0
 319,Angus,Gunn,0.0
 320,Nathan,Redmond,0.0
-321,James,Ward-Prowse,2.0
+321,James,Ward-Prowse,0.0
 322,Mohamed,Elyounoussi,0.0
-323,Stuart,Armstrong,1.0
+323,Stuart,Armstrong,0.0
 324,Mario,Lemina,0.0
 325,Pierre-Emile,Højbjerg,0.0
 326,Tyreke,Johnson,0.0
@@ -334,7 +334,7 @@ id,first_name,last_name,gameweek_11_points
 333,Davinson,Sánchez,0.0
 334,Kieran,Trippier,0.0
 335,Juan,Foyth,0.0
-336,Serge,Aurier,2.0
+336,Serge,Aurier,0.0
 337,Kyle,Walker-Peters,0.0
 338,Harry,Kane,0.0
 339,Vincent,Janssen,0.0
@@ -342,7 +342,7 @@ id,first_name,last_name,gameweek_11_points
 341,Paulo,Gazzaniga,0.0
 342,Heung-Min,Son,0.0
 343,Christian,Eriksen,0.0
-344,Bamidele,Alli,2.0
+344,Bamidele,Alli,0.0
 345,Lucas,Rodrigues Moura da Silva,0.0
 346,Erik,Lamela,0.0
 347,Harry,Winks,0.0
@@ -361,7 +361,7 @@ id,first_name,last_name,gameweek_11_points
 360,Marc,Navarro,0.0
 361,Sebastian,Prödl,0.0
 362,Troy,Deeney,0.0
-363,Gerard,Deulofeu,1.0
+363,Gerard,Deulofeu,0.0
 364,Andre,Gray,0.0
 365,Isaac,Success Ajayi,0.0
 366,Ben,Foster,0.0
@@ -380,7 +380,7 @@ id,first_name,last_name,gameweek_11_points
 379,Pablo,Zabaleta,0.0
 380,Ryan,Fredericks,0.0
 381,Issa,Diop,0.0
-382,Fabián,Balbuena,1.0
+382,Fabián,Balbuena,0.0
 383,Winston,Reid,0.0
 384,Ben,Johnson,0.0
 385,Marko,Arnautovic,0.0
@@ -389,9 +389,9 @@ id,first_name,last_name,gameweek_11_points
 388,Lukasz,Fabianski,0.0
 389,Michail,Antonio,0.0
 390,Felipe Anderson,Pereira Gomes,0.0
-391,Manuel,Lanzini,1.0
+391,Manuel,Lanzini,0.0
 392,Andriy,Yarmolenko,0.0
-393,Robert,Snodgrass,2.0
+393,Robert,Snodgrass,0.0
 394,Jack,Wilshere,0.0
 395,Declan,Rice,0.0
 396,Mark,Noble,0.0
@@ -407,21 +407,21 @@ id,first_name,last_name,gameweek_11_points
 406,Rúben Gonçalo,Silva Nascimento Vinagre,0.0
 407,Romain,Saïss,0.0
 408,Max,Kilman,0.0
-409,Raúl,Jiménez,2.0
+409,Raúl,Jiménez,0.0
 410,Diogo,Jota,0.0
 411,Rui Pedro,dos Santos Patrício,0.0
 412,John,Ruddy,0.0
 413,Will,Norris,0.0
 414,Rúben Diogo,da Silva Neves,0.0
-415,João Filipe Iria,Santos Moutinho,1.0
+415,João Filipe Iria,Santos Moutinho,0.0
 416,Morgan,Gibbs-White,0.0
 417,Adama,Traoré,0.0
 418,Hélder,Costa,0.0
 419,Ivan,Cavaleiro,0.0
 420,Leander,Dendoncker,0.0
-421,Leandro,Trossard,2.0
+421,Leandro,Trossard,0.0
 422,André Filipe,Tavares Gomes,0.0
-423,Chris,Basham,1.0
+423,Chris,Basham,0.0
 424,,,0.0
 425,,,0.0
 426,,,0.0
@@ -429,7 +429,7 @@ id,first_name,last_name,gameweek_11_points
 428,Wesley,Moraes,0.0
 429,Jed,Steer,0.0
 430,Aaron,Lennon,0.0
-431,Christian,Pulisic,2.0
+431,Christian,Pulisic,0.0
 432,Mateo,Kovacic,0.0
 433,James,Justin,0.0
 434,Josip,Drmic,0.0
@@ -438,7 +438,7 @@ id,first_name,last_name,gameweek_11_points
 437,Che,Adams,0.0
 438,Moussa,Djenepo,0.0
 439,Craig,Dawson,0.0
-440,José Ángel,Esmorís Tasende,1.0
+440,José Ángel,Esmorís Tasende,0.0
 441,Luke,Freeman,0.0
 442,Tanguy,Ndombele,0.0
 443,Rodrigo,Hernandez,0.0
@@ -455,25 +455,25 @@ id,first_name,last_name,gameweek_11_points
 454,Sam,Byram,0.0
 455,Bjorn,Engels,0.0
 456,Ravel,Morrison,0.0
-457,Sébastien,Haller,1.0
-458,Frédéric,Guilbert,1.0
+457,Sébastien,Haller,0.0
+458,Frédéric,Guilbert,0.0
 459,Kurt,Zouma,0.0
-460,Tammy,Abraham,2.0
+460,Tammy,Abraham,0.0
 461,Michy,Batshuayi,0.0
 462,Robert Kenedy,Nunes do Nascimento,0.0
 463,Mason,Mount,0.0
 464,Rhian,Brewster,0.0
-465,Mahmoud Ahmed,Ibrahim Hassan,1.0
-466,Joelinton Cássio,Apolinário de Lira,1.0
+465,Mahmoud Ahmed,Ibrahim Hassan,0.0
+466,Joelinton Cássio,Apolinário de Lira,0.0
 467,Calum,Chambers,0.0
 468,Jordan,Ayew,0.0
 469,Daniel,Ceballos Fernández,0.0
 470,Douglas Luiz,Soares de Paulo,0.0
-471,Dean,Henderson,1.0
+471,Dean,Henderson,0.0
 472,Ben,Osborn,0.0
 473,Jesús,Vallejo Lázaro,0.0
 474,Lovre,Kalinic,0.0
-475,Dan,Burn,1.0
+475,Dan,Burn,0.0
 476,Philip,Billing,0.0
 477,Lewis,Gibson,0.0
 478,Mason,Holgate,0.0
@@ -492,11 +492,11 @@ id,first_name,last_name,gameweek_11_points
 491,Marvelous,Nakamba,0.0
 492,Arnaut,Danjuma Groeneveld,0.0
 493,Adam,Webster,0.0
-494,Aaron,Ramsdale,2.0
+494,Aaron,Ramsdale,0.0
 495,Bailey,Peacock-Farrell,0.0
 496,Moise,Kean,0.0
 497,Jean-Philippe,Gbamin,0.0
-498,Jetro,Willems,2.0
+498,Jetro,Willems,0.0
 499,Rolando,Aarons,0.0
 500,Allan,Saint-Maximin,0.0
 501,Oliver,McBurnie,0.0

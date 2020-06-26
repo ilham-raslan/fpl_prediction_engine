@@ -12,6 +12,9 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.naive_bayes import GaussianNB
 
 def main():
+
+    current_gameweek=30
+
     df = pd.read_csv("../../resources/training_data.csv",header=None)
     df_x = df.iloc[:,:-1]
     df_y = df.iloc[:,-1]
@@ -64,8 +67,6 @@ def main():
     print("Accuracy of RF_res: " + str(accuracy_score(y_res_test,pred_rf_res)))
     print("Accuracy of NB_res: " + str(accuracy_score(y_res_test, pred_nb_res)))
     print("Accuracy of LR_res: " + str(accuracy_score(y_res_test, pred_lr_res)))
-
-    current_gameweek=30
 
     for i in range(6, current_gameweek+1):
         df_gameweek = pd.read_csv("../../resources/prediction_data/gameweek_" + str(i) + "_prediction_data.csv")
