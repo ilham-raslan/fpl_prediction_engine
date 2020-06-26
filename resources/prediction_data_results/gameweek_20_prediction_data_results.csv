@@ -103,7 +103,7 @@
 101,102,Jack,Cork,0.0
 102,103,Marcos,Alonso,0.0
 103,104,Antonio,Rüdiger,0.0
-104,105,César,Azpilicueta,0.0
+104,105,César,Azpilicueta,1.0
 105,106,David,Luiz Moreira Marinho,0.0
 106,107,Emerson,Palmieri dos Santos,0.0
 107,108,Andreas,Christensen,0.0
@@ -122,7 +122,7 @@
 120,121,Ethan,Ampadu,0.0
 121,122,Aaron,Wan-Bissaka,0.0
 122,123,Patrick,van Aanholt,0.0
-123,124,James,Tomkins,0.0
+123,124,James,Tomkins,2.0
 124,125,Mamadou,Sakho,1.0
 125,126,Joel,Ward,0.0
 126,127,Scott,Dann,0.0
@@ -182,7 +182,7 @@
 180,181,Andrew,Robertson,0.0
 181,182,Trent,Alexander-Arnold,2.0
 182,183,Virgil,van Dijk,1.0
-183,184,Joseph,Gomez,0.0
+183,184,Joseph,Gomez,1.0
 184,185,Joel,Matip,0.0
 185,186,Dejan,Lovren,0.0
 186,187,Roberto,Firmino,0.0
@@ -321,7 +321,7 @@
 319,320,Nathan,Redmond,0.0
 320,321,James,Ward-Prowse,0.0
 321,322,Mohamed,Elyounoussi,0.0
-322,323,Stuart,Armstrong,2.0
+322,323,Stuart,Armstrong,0.0
 323,324,Mario,Lemina,0.0
 324,325,Pierre-Emile,Højbjerg,0.0
 325,326,Tyreke,Johnson,0.0
@@ -342,7 +342,7 @@
 340,341,Paulo,Gazzaniga,0.0
 341,342,Heung-Min,Son,0.0
 342,343,Christian,Eriksen,2.0
-343,344,Bamidele,Alli,2.0
+343,344,Bamidele,Alli,0.0
 344,345,Lucas,Rodrigues Moura da Silva,0.0
 345,346,Erik,Lamela,0.0
 346,347,Harry,Winks,0.0
@@ -532,7 +532,7 @@
 530,531,Caoimhin,Kelleher,0.0
 531,532,Kevin,Danso,0.0
 532,533,Billy,Gilmour,0.0
-533,534,Aaron,Connolly,1.0
+533,534,Aaron,Connolly,0.0
 534,535,Daniel,N'Lundulu,0.0
 535,536,Tudor,Baluta,0.0
 536,537,Steven,Alzate,0.0

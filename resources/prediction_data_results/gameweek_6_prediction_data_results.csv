@@ -57,7 +57,7 @@
 55,56,Beram,Kayal,0.0
 56,57,Dale,Stephens,0.0
 57,58,Steve,Cook,2.0
-58,59,Nathan,Aké,2.0
+58,59,Nathan,Aké,0.0
 59,60,Charlie,Daniels,0.0
 60,61,Chris,Mepham,0.0
 61,62,Simon,Francis,0.0
@@ -190,7 +190,7 @@
 188,189,Alisson,Ramses Becker,0.0
 189,190,Simon,Mignolet,0.0
 190,191,Mohamed,Salah,1.0
-191,192,Sadio,Mané,0.0
+191,192,Sadio,Mané,2.0
 192,193,Alex,Oxlade-Chamberlain,0.0
 193,194,Xherdan,Shaqiri,0.0
 194,195,Adam,Lallana,0.0
@@ -426,7 +426,7 @@
 424,425,,,0.0
 425,426,,,0.0
 426,427,Emiliano,Martínez,0.0
-427,428,Wesley,Moraes,0.0
+427,428,Wesley,Moraes,1.0
 428,429,Jed,Steer,0.0
 429,430,Aaron,Lennon,0.0
 430,431,Christian,Pulisic,0.0
@@ -500,7 +500,7 @@
 498,499,Rolando,Aarons,0.0
 499,500,Allan,Saint-Maximin,0.0
 500,501,Oliver,McBurnie,0.0
-501,502,Neal,Maupay,2.0
+501,502,Neal,Maupay,0.0
 502,503,Gary,Cahill,0.0
 503,504,Gabriel Teodoro,Martinelli Silva,0.0
 504,505,Harry,Wilson,1.0

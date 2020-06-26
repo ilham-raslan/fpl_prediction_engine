@@ -40,7 +40,7 @@
 38,39,Bernardo,Fernandes da Silva Junior,0.0
 39,40,Leon,Balogun,0.0
 40,41,Gaëtan,Bong,0.0
-41,42,Lewis,Dunk,2.0
+41,42,Lewis,Dunk,0.0
 42,43,Matthew,Clarke,0.0
 43,44,Glenn,Murray,0.0
 44,45,Jürgen,Locadia,0.0
@@ -110,7 +110,7 @@
 108,109,Davide,Zappacosta,0.0
 109,110,Olivier,Giroud,0.0
 110,111,Kepa,Arrizabalaga,0.0
-111,112,Willy,Caballero,2.0
+111,112,Willy,Caballero,0.0
 112,113,Willian,Borges Da Silva,0.0
 113,114,Pedro,Rodríguez Ledesma,2.0
 114,115,Ruben,Loftus-Cheek,0.0
@@ -145,7 +145,7 @@
 143,144,Seamus,Coleman,0.0
 144,145,Leighton,Baines,0.0
 145,146,Cenk,Tosun,0.0
-146,147,Dominic,Calvert-Lewin,0.0
+146,147,Dominic,Calvert-Lewin,1.0
 147,148,Jordan,Pickford,0.0
 148,149,Maarten,Stekelenburg,0.0
 149,150,Richarlison,de Andrade,1.0
@@ -185,7 +185,7 @@
 183,184,Joseph,Gomez,0.0
 184,185,Joel,Matip,0.0
 185,186,Dejan,Lovren,0.0
-186,187,Roberto,Firmino,0.0
+186,187,Roberto,Firmino,1.0
 187,188,Divock,Origi,0.0
 188,189,Alisson,Ramses Becker,0.0
 189,190,Simon,Mignolet,0.0
@@ -260,7 +260,7 @@
 258,259,Ciaran,Clark,0.0
 259,260,Yoshinori,Muto,0.0
 260,261,Jose Luis,Mato Sanmartín,0.0
-261,262,Martin,Dubravka,1.0
+261,262,Martin,Dubravka,0.0
 262,263,Karl,Darlow,0.0
 263,264,Frederick,Woodman,0.0
 264,265,Ayoze,Pérez,0.0
@@ -515,7 +515,7 @@
 513,514,Albian,Ajeti,0.0
 514,515,Kieran,Tierney,0.0
 515,516,Aaron,Mooy,0.0
-516,517,Dennis,Praet,0.0
+516,517,Dennis,Praet,1.0
 517,518,João Pedro Cavaco,Cancelo,0.0
 518,519,Emil,Krafth,0.0
 519,520,Andy,Carroll,0.0

@@ -95,7 +95,7 @@
 93,94,Tom,Heaton,0.0
 94,95,Joe,Hart,0.0
 95,96,Johann Berg,Gudmundsson,0.0
-96,97,Dwight,McNeil,0.0
+96,97,Dwight,McNeil,1.0
 97,98,Robbie,Brady,0.0
 98,99,Steven,Defour,0.0
 99,100,Jeff,Hendrick,0.0
@@ -108,7 +108,7 @@
 106,107,Emerson,Palmieri dos Santos,0.0
 107,108,Andreas,Christensen,0.0
 108,109,Davide,Zappacosta,0.0
-109,110,Olivier,Giroud,1.0
+109,110,Olivier,Giroud,0.0
 110,111,Kepa,Arrizabalaga,0.0
 111,112,Willy,Caballero,0.0
 112,113,Willian,Borges Da Silva,2.0
@@ -190,8 +190,8 @@
 188,189,Alisson,Ramses Becker,1.0
 189,190,Simon,Mignolet,0.0
 190,191,Mohamed,Salah,2.0
-191,192,Sadio,Mané,0.0
-192,193,Alex,Oxlade-Chamberlain,2.0
+191,192,Sadio,Mané,2.0
+192,193,Alex,Oxlade-Chamberlain,0.0
 193,194,Xherdan,Shaqiri,0.0
 194,195,Adam,Lallana,0.0
 195,196,Naby,Keita,0.0
@@ -492,7 +492,7 @@
 490,491,Marvelous,Nakamba,0.0
 491,492,Arnaut,Danjuma Groeneveld,0.0
 492,493,Adam,Webster,1.0
-493,494,Aaron,Ramsdale,1.0
+493,494,Aaron,Ramsdale,0.0
 494,495,Bailey,Peacock-Farrell,0.0
 495,496,Moise,Kean,0.0
 496,497,Jean-Philippe,Gbamin,0.0

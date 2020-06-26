@@ -83,7 +83,7 @@
 81,82,Jefferson,Lerma,0.0
 82,83,Ben,Mee,1.0
 83,84,James,Tarkowski,2.0
-84,85,Matthew,Lowton,1.0
+84,85,Matthew,Lowton,0.0
 85,86,Phil,Bardsley,0.0
 86,87,Charlie,Taylor,0.0
 87,88,Kevin,Long,0.0
@@ -274,7 +274,7 @@
 272,273,Ben,Godfrey,0.0
 273,274,Maximillian,Aarons,0.0
 274,275,Christoph,Zimmermann,0.0
-275,276,Jamal,Lewis,0.0
+275,276,Jamal,Lewis,1.0
 276,277,Grant,Hanley,0.0
 277,278,Teemu,Pukki,0.0
 278,279,Dennis,Srbeny,0.0
@@ -429,7 +429,7 @@
 427,428,Wesley,Moraes,0.0
 428,429,Jed,Steer,0.0
 429,430,Aaron,Lennon,0.0
-430,431,Christian,Pulisic,0.0
+430,431,Christian,Pulisic,2.0
 431,432,Mateo,Kovacic,0.0
 432,433,James,Justin,0.0
 433,434,Josip,Drmic,0.0
@@ -456,7 +456,7 @@
 454,455,Bjorn,Engels,0.0
 455,456,Ravel,Morrison,0.0
 456,457,Sébastien,Haller,0.0
-457,458,Frédéric,Guilbert,0.0
+457,458,Frédéric,Guilbert,1.0
 458,459,Kurt,Zouma,1.0
 459,460,Tammy,Abraham,2.0
 460,461,Michy,Batshuayi,1.0

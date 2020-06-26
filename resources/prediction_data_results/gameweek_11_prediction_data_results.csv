@@ -9,7 +9,7 @@
 7,8,Konstantinos,Mavropanos,0.0
 8,9,Carl,Jenkinson,0.0
 9,10,Rob,Holding,0.0
-10,11,Pierre-Emerick,Aubameyang,2.0
+10,11,Pierre-Emerick,Aubameyang,0.0
 11,12,Alexandre,Lacazette,1.0
 12,13,Edward,Nketiah,0.0
 13,14,Bernd,Leno,0.0
@@ -122,7 +122,7 @@
 120,121,Ethan,Ampadu,0.0
 121,122,Aaron,Wan-Bissaka,0.0
 122,123,Patrick,van Aanholt,0.0
-123,124,James,Tomkins,2.0
+123,124,James,Tomkins,0.0
 124,125,Mamadou,Sakho,0.0
 125,126,Joel,Ward,0.0
 126,127,Scott,Dann,0.0
@@ -231,7 +231,7 @@
 229,230,Matteo,Darmian,0.0
 230,231,Phil,Jones,0.0
 231,232,Romelu,Lukaku,0.0
-232,233,Marcus,Rashford,0.0
+232,233,Marcus,Rashford,2.0
 233,234,Mason,Greenwood,0.0
 234,235,David,de Gea,0.0
 235,236,Sergio,Romero,0.0
@@ -295,7 +295,7 @@
 293,294,George,Baldock,1.0
 294,295,John,Egan,1.0
 295,296,Richard,Stearman,0.0
-296,297,John,Lundstram,0.0
+296,297,John,Lundstram,2.0
 297,298,Billy,Sharp,0.0
 298,299,Jake,Eastwood,0.0
 299,300,Mark,Duffy,0.0
@@ -409,16 +409,16 @@
 407,408,Max,Kilman,0.0
 408,409,Raúl,Jiménez,2.0
 409,410,Diogo,Jota,0.0
-410,411,Rui Pedro,dos Santos Patrício,0.0
+410,411,Rui Pedro,dos Santos Patrício,2.0
 411,412,John,Ruddy,0.0
 412,413,Will,Norris,0.0
 413,414,Rúben Diogo,da Silva Neves,0.0
 414,415,João Filipe Iria,Santos Moutinho,2.0
 415,416,Morgan,Gibbs-White,0.0
-416,417,Adama,Traoré,2.0
+416,417,Adama,Traoré,0.0
 417,418,Hélder,Costa,0.0
 418,419,Ivan,Cavaleiro,0.0
-419,420,Leander,Dendoncker,0.0
+419,420,Leander,Dendoncker,2.0
 420,421,Leandro,Trossard,2.0
 421,422,André Filipe,Tavares Gomes,0.0
 422,423,Chris,Basham,1.0
@@ -496,7 +496,7 @@
 494,495,Bailey,Peacock-Farrell,0.0
 495,496,Moise,Kean,0.0
 496,497,Jean-Philippe,Gbamin,0.0
-497,498,Jetro,Willems,2.0
+497,498,Jetro,Willems,0.0
 498,499,Rolando,Aarons,0.0
 499,500,Allan,Saint-Maximin,0.0
 500,501,Oliver,McBurnie,0.0

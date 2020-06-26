@@ -40,7 +40,7 @@
 38,39,Bernardo,Fernandes da Silva Junior,0.0
 39,40,Leon,Balogun,0.0
 40,41,Gaëtan,Bong,0.0
-41,42,Lewis,Dunk,0.0
+41,42,Lewis,Dunk,1.0
 42,43,Matthew,Clarke,0.0
 43,44,Glenn,Murray,0.0
 44,45,Jürgen,Locadia,0.0
@@ -82,7 +82,7 @@
 80,81,Dan,Gosling,0.0
 81,82,Jefferson,Lerma,1.0
 82,83,Ben,Mee,1.0
-83,84,James,Tarkowski,0.0
+83,84,James,Tarkowski,1.0
 84,85,Matthew,Lowton,0.0
 85,86,Phil,Bardsley,1.0
 86,87,Charlie,Taylor,1.0
@@ -224,7 +224,7 @@
 222,223,Chris,Smalling,0.0
 223,224,Ashley,Young,0.0
 224,225,Victor,Lindelöf,0.0
-225,226,Luke,Shaw,0.0
+225,226,Luke,Shaw,1.0
 226,227,Marcos,Rojo,0.0
 227,228,Eric,Bailly,0.0
 228,229,José Diogo,Dalot Teixeira,0.0
@@ -327,7 +327,7 @@
 325,326,Tyreke,Johnson,0.0
 326,327,Callum,Slattery,0.0
 327,328,Oriol,Romeu Vidal,0.0
-328,329,Ben,Davies,2.0
+328,329,Ben,Davies,0.0
 329,330,Jan,Vertonghen,0.0
 330,331,Toby,Alderweireld,0.0
 331,332,Danny,Rose,1.0
@@ -469,7 +469,7 @@
 467,468,Jordan,Ayew,1.0
 468,469,Daniel,Ceballos Fernández,0.0
 469,470,Douglas Luiz,Soares de Paulo,0.0
-470,471,Dean,Henderson,0.0
+470,471,Dean,Henderson,2.0
 471,472,Ben,Osborn,0.0
 472,473,Jesús,Vallejo Lázaro,0.0
 473,474,Lovre,Kalinic,0.0

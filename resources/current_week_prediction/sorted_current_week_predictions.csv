@@ -1,4 +1,5 @@
 id,first_name,last_name,prediction
+500,Allan,Saint-Maximin,2.0
 239,Anthony,Martial,2.0
 235,David,de Gea,2.0
 97,Dwight,McNeil,2.0
@@ -9,8 +10,11 @@ id,first_name,last_name,prediction
 376,Aaron,Cresswell,1.0
 526,Adrián,San Miguel del Castillo,1.0
 12,Alexandre,Lacazette,1.0
+618,Bruno Miguel,Borges Fernandes,1.0
 87,Charlie,Taylor,1.0
+354,Christian,Kabasele,1.0
 57,Dale,Stephens,1.0
+243,Daniel,James,1.0
 511,Djibril,Sidibé,1.0
 254,Federico,Fernández,1.0
 390,Felipe Anderson,Pereira Gomes,1.0
@@ -23,6 +27,7 @@ id,first_name,last_name,prediction
 93,Nick,Pope,1.0
 352,Oliver,Skipp,1.0
 159,Ricardo Domingos,Barbosa Pereira,1.0
+407,Romain,Saïss,1.0
 127,Scott,Dann,1.0
 5,Sokratis,Papastathopoulos,1.0
 306,Yan,Valery,1.0
@@ -57,7 +62,6 @@ id,first_name,last_name,prediction
 543,Alfie,Whiteman,0.0
 50,Alireza,Jahanbakhsh,0.0
 189,Alisson,Ramses Becker,0.0
-500,Allan,Saint-Maximin,0.0
 364,Andre,Gray,0.0
 32,Andre,Green,0.0
 108,Andreas,Christensen,0.0
@@ -120,7 +124,6 @@ id,first_name,last_name,prediction
 580,Brandon,Pierrick,0.0
 549,Brandon,Williams,0.0
 609,Bruno André,Cavaco Jordao,0.0
-618,Bruno Miguel,Borges Fernandes,0.0
 541,Bukayo,Saka,0.0
 116,Callum,Hudson-Odoi,0.0
 453,Callum,Robinson,0.0
@@ -143,7 +146,6 @@ id,first_name,last_name,prediction
 129,Christian,Benteke,0.0
 343,Christian,Eriksen,0.0
 163,Christian,Fuchs,0.0
-354,Christian,Kabasele,0.0
 431,Christian,Pulisic,0.0
 564,Christian,Saydee,0.0
 275,Christoph,Zimmermann,0.0
@@ -164,7 +166,6 @@ id,first_name,last_name,prediction
 619,Daniel,Castelo Podence,0.0
 469,Daniel,Ceballos Fernández,0.0
 120,Daniel,Drinkwater,0.0
-243,Daniel,James,0.0
 535,Daniel,N'Lundulu,0.0
 209,Danilo Luiz,da Silva,0.0
 313,Danny,Ings,0.0
@@ -542,7 +543,6 @@ id,first_name,last_name,prediction
 369,Roberto,Pereyra,0.0
 443,Rodrigo,Hernandez,0.0
 499,Rolando,Aarons,0.0
-407,Romain,Saïss,0.0
 232,Romelu,Lukaku,0.0
 117,Ross,Barkley,0.0
 115,Ruben,Loftus-Cheek,0.0
