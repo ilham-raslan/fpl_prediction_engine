@@ -21,7 +21,6 @@ def main():
         except:
             print("Error occured with Id " + str(id))
 
-# -----------------------------------DOESNT WORK FOR GAMEWEEK 26 AND ABOVE, GIVES INDEX OUT OF BOUNDS EXCEPTION ------------------
     for i in range(1,current_gameweek):
         gameweek_data = requests.get("https://fantasy.premierleague.com/api/event/" + str(i) + "/live").json()
 
@@ -29,8 +28,6 @@ def main():
         goals_scored_list = np.zeros(len(player_data))
         assists_list = np.zeros(len(player_data))
         points_list = np.zeros(len(player_data))
-
-#---------------------------------------ERROR IN HERE-----------------------------------------------------------------------------
 
         for j in range(len(gameweek_data['elements'])):
 
@@ -41,7 +38,7 @@ def main():
                 points_list[gameweek_data['elements'][j]['id']-1] = gameweek_data['elements'][j]['stats']['total_points']
             except:
                 print("Error occured with gameweek " + str(i) + " and element id " + str(gameweek_data['elements'][j]['id']))
-#--------------------------------------------------------------------------------------------------------------------------------
+
         df['gameweek_' + str(i) + '_goals_conceded'] = goals_conceded_list
         df['gameweek_' + str(i) + '_goals_scored'] = goals_scored_list
         df['gameweek_' + str(i) + '_assists'] = assists_list
